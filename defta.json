@@ -4,16 +4,14 @@
             "property_ids": [
                 "4ba34be5fb32c59e961b9666"
             ],
-            "last_updated": "2018-08-16T13:24:28",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "vio"
-            ],
-            "seen": "2018-12-05T08:49:10",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/vio_bkg_l_2d50f5d2_45eebe6a.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Violetta"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": "https://lumiere-a.akamaihd.net/v1/images/vio_doo_l_0156a4b4.png",
+            "seen": "2018-12-05T09:04:52",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/vio_bkg_l_2d50f5d2_45eebe6a.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-08-16T13:24:28",
             "guid": "MH-show-defta-5058965836a8b56f452bd4de",
             "id": "5058965836a8b56f452bd4de",
             "show_id": "5058965836a8b56f452bd4de",
@@ -23,33 +21,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/vio_chimg_l_de223588.png",
             "logo_retina_image": null,
-            "mobile_header_image": "https://lumiere-a.akamaihd.net/v1/images/vio_doo_l_0156a4b4.png",
+            "dimg_property_codes": [
+                "vio"
+            ],
             "secondary_background_color": "#23adb9",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/vio_logo_4947758c.png",
             "primary_header_color": "#532788",
-            "primary_background_color": "#af2aa9",
             "name": "Violetta",
+            "primary_background_color": "#af2aa9",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/violetta",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 1,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/vio_nur_app_sp_de_1c5ff0ae.png",
-            "order": 1
+            "header_image": null
         },
         {
             "property_ids": [
                 "51ed736953c069ff8124df07"
             ],
-            "last_updated": "2018-10-27T14:49:27",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "sol"
-            ],
-            "seen": "2018-12-05T08:49:10",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/soy_bkg_l_791aa27d_b5e2bce5.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Soy Luna"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/soy_bkg_l_791aa27d_b5e2bce5.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-10-27T14:49:27",
             "guid": "MH-show-defta-51ed74307455d6e8aac3d09e",
             "id": "51ed74307455d6e8aac3d09e",
             "show_id": "51ed74307455d6e8aac3d09e",
@@ -59,33 +57,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/soy_chimg_l_9851ca6f.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "sol"
+            ],
             "secondary_background_color": "#eb2987",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/soy_logo_452809f2.png",
             "primary_header_color": "#23adb9",
-            "primary_background_color": "#eb2987",
             "name": "Soy Luna",
+            "primary_background_color": "#eb2987",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/soy-luna",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 2,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/soy_nur_app_sp_de_0f8c5858.png",
-            "order": 2
+            "header_image": null
         },
         {
             "property_ids": [
                 "4cab1d3d24262f1464e6ab7b"
             ],
-            "last_updated": "2018-10-26T10:01:51",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "dwab"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/bg_hmb_03_ebee3edc.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Dog With a Blog"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/bg_hmb_03_ebee3edc.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-10-26T10:01:51",
             "guid": "MH-show-defta-4cc3602d830f67523edb4496",
             "id": "4cc3602d830f67523edb4496",
             "show_id": "4cc3602d830f67523edb4496",
@@ -95,34 +93,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": null,
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "dwab"
+            ],
             "secondary_background_color": "#000000",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/logos_db_472d13f2.png",
             "primary_header_color": "#BD0626",
-            "primary_background_color": "#8C0D25",
             "name": "Hund mit Blog",
+            "primary_background_color": "#8C0D25",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/dog-with-a-blog",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 3,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/db_sp_nur_in_app_de_1978415c.png",
-            "order": 3
+            "header_image": null
         },
         {
             "property_ids": [
                 "4ba34bc22b1ed59e961b9666"
             ],
-            "last_updated": "2018-11-01T02:33:52",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "sl-zac",
-                "sl_zac"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/aaa_bkg_l_cdc3e055_415f4e0d.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "The Suite Life of Zack and Cody"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/aaa_bkg_l_cdc3e055_415f4e0d.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-11-01T02:33:52",
             "guid": "MH-show-defta-4ba34bc22f3a859e961b9666",
             "id": "4ba34bc22f3a859e961b9666",
             "show_id": "4ba34bc22f3a859e961b9666",
@@ -132,33 +129,34 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/hotel_z_u_c_sp_de_7663478d.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "sl-zac",
+                "sl_zac"
+            ],
             "secondary_background_color": "#e9cd00",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/hotel_z_u_c_logo_de_8bf87bfc.png",
             "primary_header_color": "#ffdf00",
-            "primary_background_color": "#db1c20",
             "name": "Hotel Zack & Cody",
+            "primary_background_color": "#db1c20",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/hotel-zack-and-cody",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 4,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/hotel_z_u_c_nur_in_app_sp_de_0c6c1eaa.png",
-            "order": 4
+            "header_image": null
         },
         {
             "property_ids": [
                 "51adce30958babfc8edc8f2d"
             ],
-            "last_updated": "2018-11-16T02:34:55",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "bnk"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/bun_bkg_l_4de6c3c3_26fdff5b.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Bunk'd"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/bun_bkg_l_4de6c3c3_26fdff5b.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-11-16T02:34:55",
             "guid": "MH-show-defta-51adce8ee9b99a652c285ce5",
             "id": "51adce8ee9b99a652c285ce5",
             "show_id": "51adce8ee9b99a652c285ce5",
@@ -168,33 +166,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/bun_chimg_l_6748a07a.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "bnk"
+            ],
             "secondary_background_color": "#23adb9",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/bun_logo_fr_37f10939.png",
             "primary_header_color": "#23adb9",
-            "primary_background_color": "#55b12b",
             "name": "Camp Kikiwaka",
+            "primary_background_color": "#55b12b",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/bunkd",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 5,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/bunkd_nur_app_sp_de_5b589f69.png",
-            "order": 5
+            "header_image": null
         },
         {
             "property_ids": [
                 "4ba34a881018159e961b9666"
             ],
-            "last_updated": "2018-06-26T20:43:47",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "jes"
-            ],
-            "seen": "2018-12-05T08:49:10",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/jes_bkg_l_85fa0a64.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Jessie"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/jes_bkg_l_85fa0a64.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-06-26T20:43:47",
             "guid": "MH-show-defta-4ba34a881346459e961b9666",
             "id": "4ba34a881346459e961b9666",
             "show_id": "4ba34a881346459e961b9666",
@@ -204,33 +202,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/jes_chimg_l_0b53d548.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "jes"
+            ],
             "secondary_background_color": "#65449d",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/jes_logo_278eefc8.png",
             "primary_header_color": "#ffffff",
-            "primary_background_color": "#eb2989",
             "name": "Jessie",
+            "primary_background_color": "#eb2989",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/jessie",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 6,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/jes_sp_l_67d206ce.png",
-            "order": 6
+            "header_image": null
         },
         {
             "property_ids": [
                 "4ba34a5d7e10859e961b9666"
             ],
-            "last_updated": "2018-06-13T12:22:45",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "glc"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/backgrounds_glc_928b3b58.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Good Luck Charlie"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/backgrounds_glc_928b3b58.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-06-13T12:22:45",
             "guid": "MH-show-defta-4ba34a5d8135659e961b9666",
             "id": "4ba34a5d8135659e961b9666",
             "show_id": "4ba34a5d8135659e961b9666",
@@ -240,33 +238,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": null,
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "glc"
+            ],
             "secondary_background_color": "#f2dd47",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/logo_glc_de_c853c3b0.png",
             "primary_header_color": "#1da098",
-            "primary_background_color": "#23adb8",
             "name": "Meine Schwester Charlie",
+            "primary_background_color": "#23adb8",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/good-luck-charlie",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 7,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/sp_glc_de_86480e82.png",
-            "order": 7
+            "header_image": null
         },
         {
             "property_ids": [
                 "5084ff89478ebfd10d80db7a"
             ],
-            "last_updated": "2018-08-16T13:11:05",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "kcu"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/kcu_bkg_l_e22b4aff_18b3e5fb.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "K.C. Undercover"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/kcu_bkg_l_e22b4aff_18b3e5fb.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-08-16T13:11:05",
             "guid": "MH-show-defta-5085004c67dcedc15d2197f6",
             "id": "5085004c67dcedc15d2197f6",
             "show_id": "5085004c67dcedc15d2197f6",
@@ -276,33 +274,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/kcu_chimg_l_c437d72d.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "kcu"
+            ],
             "secondary_background_color": "#13a1da",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/kcu_logo_812030bb.png",
             "primary_header_color": "#154191",
-            "primary_background_color": "#25b3e4",
             "name": "K.C. Undercover",
+            "primary_background_color": "#25b3e4",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/k-c-undercover",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 8,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/kcu_sp_l_916ca142.png",
-            "order": 8
+            "header_image": null
         },
         {
             "property_ids": [
                 "4f131951d673f46495b93af4"
             ],
-            "last_updated": "2018-08-16T15:20:13",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "mad"
-            ],
-            "seen": "2018-12-05T08:49:10",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/mef_bg_de_08cc2b50.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Mother and Daughter"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/mef_bg_de_08cc2b50.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-08-16T15:20:13",
             "guid": "MH-show-defta-4f131b4fd50c4e1c3c78bece",
             "id": "4f131b4fd50c4e1c3c78bece",
             "show_id": "4f131b4fd50c4e1c3c78bece",
@@ -312,33 +310,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": null,
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "mad"
+            ],
             "secondary_background_color": "#164291",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/mef_logo_de_646e06db.png",
             "primary_header_color": "#ffffff",
-            "primary_background_color": "#db1c20",
             "name": "Maman & Ich",
+            "primary_background_color": "#db1c20",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/maman-and-ich",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 9,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/mef_sp_de_23efb7aa.png",
-            "order": 9
+            "header_image": null
         },
         {
             "property_ids": [
                 "567360b06624e4773d654e33"
             ],
-            "last_updated": "2018-05-08T09:07:17",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "dbc-tv"
-            ],
-            "seen": "2018-12-05T08:49:10",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/beni_bg_de_dda0c5e2.png?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "The Beni Challenge"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:52",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/beni_bg_de_dda0c5e2.png?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-05-08T09:07:17",
             "guid": "MH-show-defta-5673616c0208365f24c2d659",
             "id": "5673616c0208365f24c2d659",
             "show_id": "5673616c0208365f24c2d659",
@@ -348,33 +346,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/beni_sp_de_789ea84e.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "dbc-tv"
+            ],
             "secondary_background_color": "#38b9c7",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/beni_logo_de_e5fbafe6.png",
             "primary_header_color": "#46bbec",
-            "primary_background_color": "#d91a5e",
             "name": "Die Beni Challenge",
+            "primary_background_color": "#d91a5e",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/die-beni-challenge",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 10,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/beni_sp_de_789ea84e.png",
-            "order": 10
+            "header_image": null
         },
         {
             "property_ids": [
                 "547ee369e48c4d710a05657c"
             ],
-            "last_updated": "2018-05-22T08:46:12",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "tfl"
-            ],
-            "seen": "2018-12-05T08:49:10",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/chr-tef_bkg_l_v2_c609e2b5.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "An die T\u00f6pfe, fertig, lecker!"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:52",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/chr-tef_bkg_l_v2_c609e2b5.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-05-22T08:46:12",
             "guid": "MH-show-defta-547ee3abe78ae3e79a4d1b79",
             "id": "547ee3abe78ae3e79a4d1b79",
             "show_id": "547ee3abe78ae3e79a4d1b79",
@@ -384,33 +382,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": null,
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "tfl"
+            ],
             "secondary_background_color": "#E43588",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/logos_chef_90bda8a3.png",
             "primary_header_color": "#2AA1AD",
-            "primary_background_color": "#37C9C9",
             "name": "An die T\u00f6pfe, fertig, lecker!",
+            "primary_background_color": "#37C9C9",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/an-die-topfe-fertig-lecker",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 11,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/sp_rf_de_a4fe35df.png",
-            "order": 11
+            "header_image": null
         },
         {
             "property_ids": [
                 "4dc39b5ddd2db1b24c240a15"
             ],
-            "last_updated": "2018-12-03T10:57:38",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "bh6-tv"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/bh6_bg_de_564255eb.jpeg?region=0%2C0%2C1080%2C1920",
             "property_names": [
                 "Big Hero 6"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/bh6_bg_de_564255eb.jpeg?region=0%2C0%2C1080%2C1920",
+            "last_updated": "2018-12-03T10:57:38",
             "guid": "MH-show-defta-55bc6ca0f6027481ecd269d3",
             "id": "55bc6ca0f6027481ecd269d3",
             "show_id": "55bc6ca0f6027481ecd269d3",
@@ -420,33 +418,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/bh6_sp_de_ffb42875.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "bh6-tv"
+            ],
             "secondary_background_color": "#47137c",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/bh6_logo_de_afb6ce0d.png",
             "primary_header_color": "#ffffff",
-            "primary_background_color": "#df1f26",
             "name": "Baymax - Robowabohu in Serie",
+            "primary_background_color": "#df1f26",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/big-hero-6-the-series",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 12,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/bh6_neu_sp_de_5a7c47cf.png",
-            "order": 12
+            "header_image": null
         },
         {
             "property_ids": [
                 "4ba34a48528f059e961b9666"
             ],
-            "last_updated": "2018-11-26T14:34:05",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "duc-17"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/backgrounds_ducktales_master_e81c8a6d.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "DuckTales"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/backgrounds_ducktales_master_e81c8a6d.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-11-26T14:34:05",
             "guid": "MH-show-defta-5482b0155a8d43e79a4d1b79",
             "id": "5482b0155a8d43e79a4d1b79",
             "show_id": "5482b0155a8d43e79a4d1b79",
@@ -456,33 +454,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": null,
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "duc-17"
+            ],
             "secondary_background_color": "#70d0ee",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/logos_ducktales_master_d4e2fb06.png",
             "primary_header_color": "#8ad9f1 ",
-            "primary_background_color": "#ffdd00 ",
             "name": "DuckTales",
+            "primary_background_color": "#ffdd00 ",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/ducktales",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 13,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/dckt_sp_de_30b26262.png",
-            "order": 13
+            "header_image": null
         },
         {
             "property_ids": [
                 "5712e132a345d2e04b6165f5"
             ],
-            "last_updated": "2018-08-21T13:05:07",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "lic-psm-tv"
-            ],
-            "seen": "2018-12-05T08:49:10",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/psam_bg_de_3ce2e358.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "The Psammy Show"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:52",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/psam_bg_de_3ce2e358.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-08-21T13:05:07",
             "guid": "MH-show-defta-5712e1a4019132e04b6165f5",
             "id": "5712e1a4019132e04b6165f5",
             "show_id": "5712e1a4019132e04b6165f5",
@@ -492,33 +490,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": null,
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "lic-psm-tv"
+            ],
             "secondary_background_color": "#2ac2cf",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/psam_logo_de_d9222b64.png",
             "primary_header_color": "#ffffff",
-            "primary_background_color": "#46c003",
             "name": "Die Psammy Show",
+            "primary_background_color": "#46c003",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/die-psammy-show",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 14,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/psam_neu_sp_de_7a606400.png",
-            "order": 14
+            "header_image": null
         },
         {
             "property_ids": [
                 "4e8397678a52ad35fdbe47ba"
             ],
-            "last_updated": "2018-08-16T13:15:01",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "lic-ldb"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/mlb_bkg_l_7e7a4b24_835320d9.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Miraculous: Tales of Ladybug and Cat Noir"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/mlb_bkg_l_7e7a4b24_835320d9.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-08-16T13:15:01",
             "guid": "MH-show-defta-4f7cc6d25cdc9945c1f97dd4",
             "id": "4f7cc6d25cdc9945c1f97dd4",
             "show_id": "4f7cc6d25cdc9945c1f97dd4",
@@ -528,33 +526,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/mlb_chimg_l_548b7c4e.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "lic-ldb"
+            ],
             "secondary_background_color": "#ffffff",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/mir_logo_de_4de35154.png",
             "primary_header_color": "#000000",
-            "primary_background_color": "#db1c20",
             "name": "Miraculous - Geschichten von Ladybug und Cat Noir",
+            "primary_background_color": "#db1c20",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/miraculous",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 15,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/mir_sp_l_fe4fac6e.png",
-            "order": 15
+            "header_image": null
         },
         {
             "property_ids": [
                 "5521301771f148ab37732626"
             ],
-            "last_updated": "2018-10-15T12:23:16",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "ptd-tv"
-            ],
-            "seen": "2018-12-05T08:49:10",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/pat_bg_de_af614d4c.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Pat The Dog"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:52",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/pat_bg_de_af614d4c.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-10-15T12:23:16",
             "guid": "MH-show-defta-552130cd071228ab37732626",
             "id": "552130cd071228ab37732626",
             "show_id": "552130cd071228ab37732626",
@@ -564,33 +562,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": null,
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "ptd-tv"
+            ],
             "secondary_background_color": "#ffffff",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/pat_logo_de_f8d57dc4.png",
             "primary_header_color": "#e0c610",
-            "primary_background_color": "#28c0cc",
             "name": "Pat der Hund",
+            "primary_background_color": "#28c0cc",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/pat-the-dog",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 16,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/pat_sp_de_31d8ba1b.png",
-            "order": 16
+            "header_image": null
         },
         {
             "property_ids": [
                 "551d50a8be0c91cbc2b3f5cf"
             ],
-            "last_updated": "2018-10-27T14:49:27",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "lic-cwcm"
-            ],
-            "seen": "2018-12-05T08:49:10",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/backgrounds_zhuzhus_f568b64a.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Cloudy with a Chance of Meatballs"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/backgrounds_zhuzhus_f568b64a.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-10-27T14:49:27",
             "guid": "MH-show-defta-551d510ade7b51cbc2b3f5cf",
             "id": "551d510ade7b51cbc2b3f5cf",
             "show_id": "551d510ade7b51cbc2b3f5cf",
@@ -600,33 +598,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/wolkig_sp_de_10487eb9.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "lic-cwcm"
+            ],
             "secondary_background_color": "#eded69",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/wolkig_logo_de_259ae065.png",
             "primary_header_color": "#ffffff",
-            "primary_background_color": "#876495",
             "name": "Wolkig mit Aussicht auf Fleischb\u00e4llchen",
+            "primary_background_color": "#876495",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/cloudy-with-a-chance-of-meatballs",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 17,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/wolkig_sp_de_10487eb9.png",
-            "order": 17
+            "header_image": null
         },
         {
             "property_ids": [
                 "4cd590b302f009592fc489de"
             ],
-            "last_updated": "2018-10-03T11:57:33",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "sws-tfa"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/sws_bkg_l_04cb3aab_c73119ca.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Star Wars"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/sws_bkg_l_04cb3aab_c73119ca.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-10-03T11:57:33",
             "guid": "MH-show-defta-5342a7d8d43aaeb77b849c41",
             "id": "5342a7d8d43aaeb77b849c41",
             "show_id": "5342a7d8d43aaeb77b849c41",
@@ -636,35 +634,35 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/sws_chimg_l_5d740274.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "sws-tfa"
+            ],
             "secondary_background_color": "#8a643a",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/sws_logo_de_b90f47f5.png",
             "primary_header_color": "#0d0735",
-            "primary_background_color": "#9f814f",
             "name": "Star Wars: Die Abenteuer der Freemaker",
+            "primary_background_color": "#9f814f",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/star-wars-the-freemaker-adventures",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 18,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/sws_sp_l_a81150b2.png",
-            "order": 18
+            "header_image": null
         },
         {
             "property_ids": [
                 "4ba34be3528a059e961b9666",
                 "4d7fcaea5ac84e04aa5ba6ca"
             ],
-            "last_updated": "2018-11-22T02:33:32",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "spm-marv"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/marvel_spiderman_bg_de_3f2c1fbb.png?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Spider-Man",
                 "Marvel Universe"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/marvel_spiderman_bg_de_3f2c1fbb.png?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-11-22T02:33:32",
             "guid": "MH-show-defta-54e127fe12d2ce3193adaa1a",
             "id": "54e127fe12d2ce3193adaa1a",
             "show_id": "54e127fe12d2ce3193adaa1a",
@@ -674,33 +672,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": null,
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "spm-marv"
+            ],
             "secondary_background_color": "#AC1312",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/marvel_spiderman_logo_de_efb19b5e.png",
             "primary_header_color": "#4F85FF",
-            "primary_background_color": "#263476",
             "name": "Spider-Man",
+            "primary_background_color": "#263476",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/spider-man",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 19,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/marvel_spiderman_sp_de_e5d42e56.png",
-            "order": 19
+            "header_image": null
         },
         {
             "property_ids": [
                 "4b997410665afb84fc68753a"
             ],
-            "last_updated": "2018-10-31T19:42:38",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "tan-tv"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/tan_background_3da74df2.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Tangled"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/tan_background_3da74df2.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-10-31T19:42:38",
             "guid": "MH-show-defta-5478a9889d6cd3e79a4d1b79",
             "id": "5478a9889d6cd3e79a4d1b79",
             "show_id": "5478a9889d6cd3e79a4d1b79",
@@ -710,33 +708,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/tan_ser_sp_de_abd4e93d.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "tan-tv"
+            ],
             "secondary_background_color": "#9c1f97",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/tan_series_logo_de_6df7c1dc.png",
             "primary_header_color": "#af2aa9",
-            "primary_background_color": "#56b22b",
             "name": "Rapunzel: Die Serie",
+            "primary_background_color": "#56b22b",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/rapunzel-die-serie",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 20,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/tan_ser_sp_de_abd4e93d.png",
-            "order": 20
+            "header_image": null
         },
         {
             "property_ids": [
                 "531026f1a237d1a9b8302f7a"
             ],
-            "last_updated": "2018-11-16T23:33:53",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "eoa"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/eoa_bkg_l_cc44fe75_d7e0f283.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Elena of Avalor"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/eoa_bkg_l_cc44fe75_d7e0f283.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-11-16T23:33:53",
             "guid": "MH-show-defta-531027d2fd0f527a659c9238",
             "id": "531027d2fd0f527a659c9238",
             "show_id": "531027d2fd0f527a659c9238",
@@ -746,33 +744,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/eoa_chimg_l_2babad07.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "eoa"
+            ],
             "secondary_background_color": "#C8224C",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/eoa_logo_de_1d1482ac.png",
             "primary_header_color": "#db1c20",
-            "primary_background_color": "#24aeba",
             "name": "Elena von Avalor",
+            "primary_background_color": "#24aeba",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/elena-of-avalor",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 21,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/eoa_sp_l_553f87d2.png",
-            "order": 21
+            "header_image": null
         },
         {
             "property_ids": [
                 "4b90600fae09350f422a8ba2"
             ],
-            "last_updated": "2018-11-26T12:33:01",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "phf"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/phf_bkg_l_b77a83b7_f72626c5.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Phineas and Ferb"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/phf_bkg_l_b77a83b7_f72626c5.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-11-26T12:33:01",
             "guid": "MH-show-defta-4b90600fa9f7b50f422a8ba2",
             "id": "4b90600fa9f7b50f422a8ba2",
             "show_id": "4b90600fa9f7b50f422a8ba2",
@@ -782,33 +780,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/phf_chimg_4a662f46.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "phf"
+            ],
             "secondary_background_color": "#1b9781",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/phf_logo_de_1e016ebb.png",
             "primary_header_color": "#23a491",
-            "primary_background_color": "#ffe000",
             "name": "Phineas und Ferb ",
+            "primary_background_color": "#ffe000",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/phineas-and-ferb",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 22,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/paf_sp_l_2c24283a.png",
-            "order": 22
+            "header_image": null
         },
         {
             "property_ids": [
                 "4ba34b0417c7059e961b9666"
             ],
-            "last_updated": "2018-05-08T09:13:53",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "lic-mlp"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/background_mlp_0f26cd4b.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "My Little Pony"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/background_mlp_0f26cd4b.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-05-08T09:13:53",
             "guid": "MH-show-defta-5089888a56f575cb712e8869",
             "id": "5089888a56f575cb712e8869",
             "show_id": "5089888a56f575cb712e8869",
@@ -818,34 +816,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": null,
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "lic-mlp"
+            ],
             "secondary_background_color": "#6B1BB7",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/logos_mlp_53d92e6c.png",
             "primary_header_color": "#E98FF9",
-            "primary_background_color": "#A728BA",
             "name": "My Little Pony",
+            "primary_background_color": "#A728BA",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/my-little-pony",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 23,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/sp_mlp_de_1c1def06.png",
-            "order": 23
+            "header_image": null
         },
         {
             "property_ids": [
                 "50f5987e225049244bdb08be"
             ],
-            "last_updated": "2018-05-22T08:33:11",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "lic-sp4",
-                "lic_sp4"
-            ],
-            "seen": "2018-12-05T08:49:10",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/background_sup4_73695d26.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Super 4: Heroes United"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/background_sup4_73695d26.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-05-22T08:33:11",
             "guid": "MH-show-defta-50f598e50d1a60cea74f31ce",
             "id": "50f598e50d1a60cea74f31ce",
             "show_id": "50f598e50d1a60cea74f31ce",
@@ -855,33 +852,34 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": null,
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "lic-sp4",
+                "lic_sp4"
+            ],
             "secondary_background_color": "#22B33E",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/logos_sup4_fca2d07d.png",
             "primary_header_color": "#3571CC",
-            "primary_background_color": "#E7EE34",
             "name": "SUPER 4",
+            "primary_background_color": "#E7EE34",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/super-4",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 24,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/sp_s4_de_d86ad9dc.png",
-            "order": 24
+            "header_image": null
         },
         {
             "property_ids": [
                 "4b90600fae13a50f422a8ba2"
             ],
-            "last_updated": "2018-10-20T13:19:10",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "car-tvsf"
-            ],
-            "seen": "2018-12-05T08:49:10",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/rsn_bg_de_dafdbd3a.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Cars"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:52",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/rsn_bg_de_dafdbd3a.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-10-20T13:19:10",
             "guid": "MH-show-defta-55dfc682430158902edcd846",
             "id": "55dfc682430158902edcd846",
             "show_id": "55dfc682430158902edcd846",
@@ -891,33 +889,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/rsn_sp_de_6db9f1d7.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "car-tvsf"
+            ],
             "secondary_background_color": "#db5834",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/rsn_logo_de_e5e18449.png",
             "primary_header_color": "#ffffff",
-            "primary_background_color": "#eded69",
             "name": "Racing Sports Network",
+            "primary_background_color": "#eded69",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/racing-sports-network",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 25,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/rsn_sp_de_6db9f1d7.png",
-            "order": 25
+            "header_image": null
         },
         {
             "property_ids": [
                 "4bdfd35102a87496bbe03d00"
             ],
-            "last_updated": "2018-11-22T20:33:49",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "dmms"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/bg_mickymaus_ccc5362b.png?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Mickey Mouse & Friends"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/bg_mickymaus_ccc5362b.png?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-11-22T20:33:49",
             "guid": "MH-show-defta-4dbd6f527d2aa5b5acf0f446",
             "id": "4dbd6f527d2aa5b5acf0f446",
             "show_id": "4dbd6f527d2aa5b5acf0f446",
@@ -927,33 +925,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": null,
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "dmms"
+            ],
             "secondary_background_color": "#aa0e25",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/logo_mickymaus_f735ab93.png",
             "primary_header_color": "#00bcb1",
-            "primary_background_color": "#ffde00",
             "name": "Micky Maus",
+            "primary_background_color": "#ffde00",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/micky-maus",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 26,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/showpicker_mickymausshorts_yellow_0383cc8b.png",
-            "order": 26
+            "header_image": null
         },
         {
             "property_ids": [
                 "57894cc5ea2da692bfbfa2a7"
             ],
-            "last_updated": "2018-10-19T14:24:28",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "mic-cac-tv"
-            ],
-            "seen": "2018-12-05T08:49:10",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/mca_bg_de_c3de0357.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Mickey Comic Academy"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:52",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/mca_bg_de_c3de0357.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-10-19T14:24:28",
             "guid": "MH-show-defta-57894d22b49515e98b8e86f3",
             "id": "57894d22b49515e98b8e86f3",
             "show_id": "57894d22b49515e98b8e86f3",
@@ -963,33 +961,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/mca_sp_de_520bd64f.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "mic-cac-tv"
+            ],
             "secondary_background_color": "#e7302a",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/mca_logo_de_90f91243.png",
             "primary_header_color": "#ffffff",
-            "primary_background_color": "#000000",
             "name": "Micky Comic Akademie",
+            "primary_background_color": "#000000",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/micky-comic-akademie",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 27,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/mca_sp_de_520bd64f.png",
-            "order": 27
+            "header_image": null
         },
         {
             "property_ids": [
                 "5241d2a1a9c48f3dd73fa9e8"
             ],
-            "last_updated": "2018-11-28T23:33:49",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "pjm"
-            ],
-            "seen": "2018-12-05T08:49:10",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/n_pj2_7edd825a.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "PJ Masks"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/n_pj2_7edd825a.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-11-28T23:33:49",
             "guid": "MH-show-defta-5241d2eb1ade54bc8bba7f59",
             "id": "5241d2eb1ade54bc8bba7f59",
             "show_id": "5241d2eb1ade54bc8bba7f59",
@@ -999,33 +997,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": null,
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "pjm"
+            ],
             "secondary_background_color": "#00903d",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/logo_pj_de_1ccceecf.png",
             "primary_header_color": "#3e4f97",
-            "primary_background_color": "#bc2d31",
             "name": "PJ Masks - Pyjamahelden",
+            "primary_background_color": "#bc2d31",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/pj-masks",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 28,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/sp_pjm_de_066dce8b.png",
-            "order": 28
+            "header_image": null
         },
         {
             "property_ids": [
                 "5482accb1c8bf9352539fac5"
             ],
-            "last_updated": "2018-09-12T12:45:57",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "vamr"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/vamp_bg_de_aa7cedcf.png?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Vampirina"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/vamp_bg_de_aa7cedcf.png?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-09-12T12:45:57",
             "guid": "MH-show-defta-5482ace7f6a7e2c5a4cc2cc9",
             "id": "5482ace7f6a7e2c5a4cc2cc9",
             "show_id": "5482ace7f6a7e2c5a4cc2cc9",
@@ -1035,33 +1033,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": null,
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "vamr"
+            ],
             "secondary_background_color": "#ffffff",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/vamp_logo_de_ca0a2daa.png",
             "primary_header_color": "#554399",
-            "primary_background_color": "#a52974",
             "name": "Vampirina",
+            "primary_background_color": "#a52974",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/vampirina",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 29,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/vamp_sp_de_d7ba56bc.png",
-            "order": 29
+            "header_image": null
         },
         {
             "property_ids": [
                 "4b9974109d9cbb84fc68753a"
             ],
-            "last_updated": "2018-10-05T14:17:41",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "lio-lg"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/lg_bg_ead2107e.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "The Lion King"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/lg_bg_ead2107e.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-10-05T14:17:41",
             "guid": "MH-show-defta-523c7ccff7c46d765036df78",
             "id": "523c7ccff7c46d765036df78",
             "show_id": "523c7ccff7c46d765036df78",
@@ -1071,33 +1069,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": null,
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "lio-lg"
+            ],
             "secondary_background_color": "#DD1741",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/logo_lg_de_1c2e0db0.png",
             "primary_header_color": "#F07F02",
-            "primary_background_color": "#FCBC01",
             "name": "Die Garde der L\u00f6wen - The Lion Guard",
+            "primary_background_color": "#FCBC01",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/the-lion-guard",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 30,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/sp_lg_de_17514d0f.png",
-            "order": 30
+            "header_image": null
         },
         {
             "property_ids": [
                 "5393bad9dc58ec3e90108168"
             ],
-            "last_updated": "2018-11-28T23:34:16",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "mrr"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/n_mrr_40929b53.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Mickey and the Roadster Racers "
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/n_mrr_40929b53.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-11-28T23:34:16",
             "guid": "MH-show-defta-5393bc5e3245f1872d6e9a43",
             "id": "5393bc5e3245f1872d6e9a43",
             "show_id": "5393bc5e3245f1872d6e9a43",
@@ -1107,33 +1105,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": null,
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "mrr"
+            ],
             "secondary_background_color": "#e5e606",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/logo_mrr_de_db0cd56c.png",
             "primary_header_color": "#eecc12",
-            "primary_background_color": "#df2228",
             "name": "Micky und die flinken Flitzer",
+            "primary_background_color": "#df2228",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/mickey-and-the-roadster-racers",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 31,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/sp_mmr_de_db19727a.png",
-            "order": 31
+            "header_image": null
         },
         {
             "property_ids": [
                 "star-wars"
             ],
-            "last_updated": "2018-11-08T09:07:56",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "sws"
-            ],
-            "seen": "2018-11-08T09:08:01",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/swg_final_bg_b64f389a.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Star Wars"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-11-08T09:08:01",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/swg_final_bg_b64f389a.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-11-08T09:07:56",
             "guid": "MH-show-defta-5b85036d0ac0a700019ac5b5",
             "id": "star-wars",
             "show_id": "star-wars",
@@ -1143,33 +1141,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": null,
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "sws"
+            ],
             "secondary_background_color": "#000000",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/logo_swg_b7968c25.png",
             "primary_header_color": "#528ca6",
-            "primary_background_color": "#9db6c7",
             "name": "Star Wars",
+            "primary_background_color": "#9db6c7",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/star-wars",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 32,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/sp_swg_8ec2d8ce.png",
-            "order": 32
+            "header_image": null
         },
         {
             "property_ids": [
                 "4ed6f3f12b4ef391b2085176"
             ],
-            "last_updated": "2018-08-16T15:19:58",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "iddi"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/iddi_bg_de_e3e9da1d.png?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "I Didn't Do It"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/iddi_bg_de_e3e9da1d.png?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-08-16T15:19:58",
             "guid": "MH-show-defta-4ed6f447f9c6fd53321f1606",
             "id": "4ed6f447f9c6fd53321f1606",
             "show_id": "4ed6f447f9c6fd53321f1606",
@@ -1179,33 +1177,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": null,
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "iddi"
+            ],
             "secondary_background_color": "#00b4f0",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/iddi_logo_de_c5558675.png",
             "primary_header_color": "#ffffff",
-            "primary_background_color": "#da1c20",
             "name": "Ich war's nicht",
+            "primary_background_color": "#da1c20",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/ich-war-s-nicht",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 33,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/iddi_sp_de_0ed5d00a.png",
-            "order": 33
+            "header_image": null
         },
         {
             "property_ids": [
                 "4ba34a96fa1fa59e961b9666"
             ],
-            "last_updated": "2018-08-16T15:20:09",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "kmp"
-            ],
-            "seen": "2018-12-05T08:49:10",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/bg_kimpossible_v02_02_9ce12f3a.png?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Kim Possible"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:52",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/bg_kimpossible_v02_02_9ce12f3a.png?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-08-16T15:20:09",
             "guid": "MH-show-defta-4ba34a96fd91059e961b9666",
             "id": "4ba34a96fd91059e961b9666",
             "show_id": "4ba34a96fd91059e961b9666",
@@ -1215,33 +1213,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": null,
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "kmp"
+            ],
             "secondary_background_color": "#e6206f",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/logo_kimpossible_ff4b2104.png",
             "primary_header_color": "#055591",
-            "primary_background_color": "#afd235",
             "name": "Kim Possible",
+            "primary_background_color": "#afd235",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/kim-possible",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 34,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/showpicker_kimpossible_779bd836.png",
-            "order": 34
+            "header_image": null
         },
         {
             "property_ids": [
                 "57895d0a295fa83df2b731c0"
             ],
-            "last_updated": "2018-10-19T14:36:57",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "mxdc"
-            ],
-            "seen": "2018-10-19T14:37:12",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/mca_bg_de_c3de0357.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 ""
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-10-19T14:37:12",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/mca_bg_de_c3de0357.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-10-19T14:36:57",
             "guid": "MH-show-defta-57895d0a295fa83df2b731c0",
             "id": "57895d0a295fa83df2b731c0",
             "show_id": "57895d0a295fa83df2b731c0",
@@ -1251,33 +1249,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/micky_90_logo_de_59c677ae.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "mxdc"
+            ],
             "secondary_background_color": "#fde530",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/micky_90_logo_de_59c677ae.png",
             "primary_header_color": "#ffffff",
-            "primary_background_color": "#000000",
             "name": "Micky 90",
+            "primary_background_color": "#000000",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/micky-90",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 35,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/micky_90_sp_de_99f88753.png",
-            "order": 35
+            "header_image": null
         },
         {
             "property_ids": [
                 "5256fefc122cb3108d7b0730"
             ],
-            "last_updated": "2018-08-16T13:00:44",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "stm"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/sim_bkg_l_49e9d67a_c86cfb5f.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Stuck in the Middle"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/sim_bkg_l_49e9d67a_c86cfb5f.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-08-16T13:00:44",
             "guid": "MH-show-defta-5256ff61ac37929cc21e6986",
             "id": "5256ff61ac37929cc21e6986",
             "show_id": "5256ff61ac37929cc21e6986",
@@ -1287,33 +1285,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/sim_chimg_l_d6cb0424.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "stm"
+            ],
             "secondary_background_color": "#db1c20",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/sitm_logo_de_b1d13ccb.png",
             "primary_header_color": "#522787",
-            "primary_background_color": "#b02baa",
             "name": "Mittendrin und kein Entkommen",
+            "primary_background_color": "#b02baa",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/stuck-in-the-middle",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 36,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/sim_nur_app_sp_de_923e5a60.png",
-            "order": 36
+            "header_image": null
         },
         {
             "property_ids": [
                 "52e2f88cc8dedba276f62f34"
             ],
-            "last_updated": "2018-08-16T13:02:18",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "ldg"
-            ],
-            "seen": "2018-12-05T08:49:10",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/lod_bkg_l_f7436641.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "The Lodge"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:52",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/lod_bkg_l_f7436641.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-08-16T13:02:18",
             "guid": "MH-show-defta-52e2f8e723c0cba276f62f34",
             "id": "52e2f8e723c0cba276f62f34",
             "show_id": "52e2f8e723c0cba276f62f34",
@@ -1323,33 +1321,33 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/lod_chimg_l_e12bc42c.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "ldg"
+            ],
             "secondary_background_color": "#164291",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/lod_logo_3e344fac.png",
             "primary_header_color": "#164291",
-            "primary_background_color": "#00a1da",
             "name": "The Lodge",
+            "primary_background_color": "#00a1da",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/the-lodge",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 37,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/lod_sp_l_27c95901.png",
-            "order": 37
+            "header_image": null
         },
         {
             "property_ids": [
                 "4ba34a62596d559e961b9666"
             ],
-            "last_updated": "2018-08-16T13:06:25",
-            "mobile_hero_image": null,
-            "dimg_property_codes": [
-                "grv"
-            ],
-            "seen": "2018-12-05T08:49:11",
-            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/gvf_bkg_l_291d69af_0b09a9f0.jpeg?region=0%2C0%2C1536%2C2048",
             "property_names": [
                 "Gravity Falls"
             ],
+            "mobile_hero_image": null,
+            "mobile_header_image": null,
+            "seen": "2018-12-05T09:04:53",
+            "body_background_image": "https://lumiere-a.akamaihd.net/v1/images/gvf_bkg_l_291d69af_0b09a9f0.jpeg?region=0%2C0%2C1536%2C2048",
+            "last_updated": "2018-08-16T13:06:25",
             "guid": "MH-show-defta-4ba34a625c42159e961b9666",
             "id": "4ba34a625c42159e961b9666",
             "show_id": "4ba34a625c42159e961b9666",
@@ -1359,18 +1357,20 @@
             "asset_logo_retina_image": null,
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/gvf_chimg_l_c058e310.png",
             "logo_retina_image": null,
-            "mobile_header_image": null,
+            "dimg_property_codes": [
+                "grv"
+            ],
             "secondary_background_color": "#134310",
             "sidekick_featured_desktop_image": null,
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/gvf_logo_de_f84b5832.png",
             "primary_header_color": "#23651f",
-            "primary_background_color": "#55b12b",
             "name": "Willkommen in Gravity Falls",
+            "primary_background_color": "#55b12b",
             "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/gravity-falls",
             "header_retina_image": null,
-            "header_image": null,
+            "order": 38,
             "hero_image": "https://lumiere-a.akamaihd.net/v1/images/gvf_sp_l_565f444d.png",
-            "order": 38
+            "header_image": null
         },
         {
             "property_ids": [
@@ -1382,7 +1382,6 @@
             ],
             "last_updated": "2018-11-06T10:00:00",
             "name": "XD",
-            "id": "genericXD",
             "secondary_background_color": "#530e97",
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/dxd_logo_91b25c04.png",
             "catalog_poster_image": "https://lumiere-a.akamaihd.net/v1/images/xdg_sp_65c469fa.png",
@@ -1393,8 +1392,9 @@
                 "genericXD"
             ],
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/dxd_chimg_l_ca9a9e79.png",
-            "hero_image": "https://lumiere-a.akamaihd.net/v1/images/dxd_sp_l_433c2978.png",
             "order": 39,
+            "hero_image": "https://lumiere-a.akamaihd.net/v1/images/dxd_sp_l_433c2978.png",
+            "id": "genericXD",
             "logo_retina_image": "https://lumiere-a.akamaihd.net/v1/images/xd_logo_217a92e3.png",
             "primary_background_color": "#08ee59"
         },
@@ -1408,7 +1408,6 @@
             ],
             "last_updated": "2018-11-06T10:00:00",
             "name": "generic",
-            "id": "generic",
             "secondary_background_color": "#00A1D9",
             "logo_image": "https://lumiere-a.akamaihd.net/v1/images/gen_logo_new-24_august_e774b8e1.png",
             "catalog_poster_image": "https://lumiere-a.akamaihd.net/v1/images/dcg_sp_8f1024e5.png",
@@ -1419,17 +1418,17 @@
                 "generic"
             ],
             "hero_logo_image": "https://lumiere-a.akamaihd.net/v1/images/gen_chimg_l_980f7e5d.png",
-            "hero_image": "https://lumiere-a.akamaihd.net/v1/images/gen_sp_l_e14ea569.png",
             "order": 40,
+            "hero_image": "https://lumiere-a.akamaihd.net/v1/images/gen_sp_l_e14ea569.png",
+            "id": "generic",
             "logo_retina_image": "https://lucky.akamaihd.net/v1/images/gen_sp_6c49cb70.png",
             "primary_background_color": "#00a0da"
         }
     ],
     "can_suppress": false,
-    "cache_time": "05 Dec 2018 09:00:10 GMT",
+    "cache_time": "05 Dec 2018 09:07:13 GMT",
     "social": [
         {
-            "expires": "2018-12-12T07:46:00",
             "object": {
                 "displayName": "Vampirina - Fledermausfieber/Der Gedichtetag",
                 "image": {
@@ -1453,6 +1452,7 @@
                 "duration": 1382000,
                 "objectType": "video"
             },
+            "expires": "2018-12-12T07:46:00",
             "tag": [
                 {
                     "name": "5482ace7f6a7e2c5a4cc2cc9",
@@ -1469,7 +1469,6 @@
             "guid": "MH-video-defta-5786188be7216635ac7c9e31"
         },
         {
-            "expires": "2018-12-12T06:18:00",
             "object": {
                 "displayName": "Micky und die flinken Flitzer - Das Rigatoni-Rennen/Rundfahrt in Rom",
                 "image": {
@@ -1493,6 +1492,7 @@
                 "duration": 1296000,
                 "objectType": "video"
             },
+            "expires": "2018-12-12T06:18:00",
             "tag": [
                 {
                     "name": "5393bc5e3245f1872d6e9a43",
@@ -1509,7 +1509,6 @@
             "guid": "MH-video-defta-569666a95739d74538913792"
         },
         {
-            "expires": "2018-12-11T19:15:00",
             "object": {
                 "displayName": "Maman & Ich - Folge 36",
                 "image": {
@@ -1533,6 +1532,7 @@
                 "duration": 284000,
                 "objectType": "video"
             },
+            "expires": "2018-12-11T19:15:00",
             "tag": [
                 {
                     "name": "4f131b4fd50c4e1c3c78bece",
@@ -1549,7 +1549,6 @@
             "guid": "MH-video-defta-576caffc4118a0671b5faafb"
         },
         {
-            "expires": "2018-12-11T19:08:00",
             "object": {
                 "displayName": "K.C. Undercover - Das Anti-Streit-Verlie\u00df",
                 "image": {
@@ -1573,6 +1572,7 @@
                 "duration": 1355000,
                 "objectType": "video"
             },
+            "expires": "2018-12-11T19:08:00",
             "tag": [
                 {
                     "name": "5085004c67dcedc15d2197f6",
@@ -1589,7 +1589,6 @@
             "guid": "MH-video-defta-57bedaee823b9af44b97e602"
         },
         {
-            "expires": "2018-12-11T18:38:00",
             "object": {
                 "displayName": "Jessie - Notlandung",
                 "image": {
@@ -1613,6 +1612,7 @@
                 "duration": 1297000,
                 "objectType": "video"
             },
+            "expires": "2018-12-11T18:38:00",
             "tag": [
                 {
                     "name": "4ba34a881346459e961b9666",
@@ -1629,7 +1629,6 @@
             "guid": "MH-video-defta-56bcdd29a1a4f0a19aac3713"
         },
         {
-            "expires": "2018-12-11T18:09:00",
             "object": {
                 "displayName": "Miraculous - Geschichten von Ladybug und Cat Noir - Der Superfan",
                 "image": {
@@ -1653,6 +1652,7 @@
                 "duration": 1297000,
                 "objectType": "video"
             },
+            "expires": "2018-12-11T18:09:00",
             "tag": [
                 {
                     "name": "4f7cc6d25cdc9945c1f97dd4",
@@ -1669,7 +1669,6 @@
             "guid": "MH-video-defta-5686c37b5cf5f12dbff67623"
         },
         {
-            "expires": "2018-12-11T17:11:00",
             "object": {
                 "displayName": "DuckTales - Woo-Hoo!",
                 "image": {
@@ -1693,6 +1692,7 @@
                 "duration": 1283000,
                 "objectType": "video"
             },
+            "expires": "2018-12-11T17:11:00",
             "tag": [
                 {
                     "name": "5482b0155a8d43e79a4d1b79",
@@ -1709,7 +1709,6 @@
             "guid": "MH-video-defta-5747da5d6e58335cd646d201"
         },
         {
-            "expires": "2018-12-11T16:42:00",
             "object": {
                 "displayName": "Phineas und Ferb - Campen mit Bigfoot / Die Baumhausvilla",
                 "image": {
@@ -1733,6 +1732,7 @@
                 "duration": 1295000,
                 "objectType": "video"
             },
+            "expires": "2018-12-11T16:42:00",
             "tag": [
                 {
                     "name": "4b90600fa9f7b50f422a8ba2",
@@ -1749,7 +1749,6 @@
             "guid": "MH-video-defta-57bedaef91bc9af44b97e602"
         },
         {
-            "expires": "2018-12-11T15:07:00",
             "object": {
                 "displayName": "Baymax: Robowabohu in Serie - Der Party-Crasher",
                 "image": {
@@ -1773,6 +1772,7 @@
                 "duration": 1269000,
                 "objectType": "video"
             },
+            "expires": "2018-12-11T15:07:00",
             "tag": [
                 {
                     "name": "55bc6ca0f6027481ecd269d3",
@@ -1789,7 +1789,6 @@
             "guid": "MH-video-defta-5784e9ade0313b15abb00f97"
         },
         {
-            "expires": "2018-12-11T14:04:00",
             "object": {
                 "displayName": "Die Psammy Show - Ich w\u00fcnsche mir, Captain William zu treffen",
                 "image": {
@@ -1813,6 +1812,7 @@
                 "duration": 738000,
                 "objectType": "video"
             },
+            "expires": "2018-12-11T14:04:00",
             "tag": [
                 {
                     "name": "5712e1a4019132e04b6165f5",
@@ -1829,7 +1829,6 @@
             "guid": "MH-video-defta-57880f6ea395e635ac7c9e31"
         },
         {
-            "expires": "2018-12-11T13:58:00",
             "object": {
                 "displayName": "Elena von Avalor - Formwandler",
                 "image": {
@@ -1853,6 +1852,7 @@
                 "duration": 1296000,
                 "objectType": "video"
             },
+            "expires": "2018-12-11T13:58:00",
             "tag": [
                 {
                     "name": "531027d2fd0f527a659c9238",
@@ -1869,7 +1869,6 @@
             "guid": "MH-video-defta-56b5ebfe8cb270a19aac3713"
         },
         {
-            "expires": "2018-12-11T08:00:00",
             "object": {
                 "displayName": "Soy Luna - Folge 212",
                 "image": {
@@ -1893,6 +1892,7 @@
                 "duration": 2366000,
                 "objectType": "video"
             },
+            "expires": "2018-12-11T08:00:00",
             "tag": [
                 {
                     "name": "51ed74307455d6e8aac3d09e",
@@ -1909,7 +1909,6 @@
             "guid": "MH-video-defta-57c244e043b5fbe7e087978b"
         },
         {
-            "expires": "2018-12-11T07:46:00",
             "object": {
                 "displayName": "Vampirina - Akrobaten-Boris/Der Limonadenstand",
                 "image": {
@@ -1933,6 +1932,7 @@
                 "duration": 1382000,
                 "objectType": "video"
             },
+            "expires": "2018-12-11T07:46:00",
             "tag": [
                 {
                     "name": "5482ace7f6a7e2c5a4cc2cc9",
@@ -1949,7 +1949,6 @@
             "guid": "MH-video-defta-579146d30622b60fcab23a6b"
         },
         {
-            "expires": "2018-12-11T06:18:00",
             "object": {
                 "displayName": "Micky und die flinken Flitzer - Goofy-Benzin/Der kleine Gorilla",
                 "image": {
@@ -1973,6 +1972,7 @@
                 "duration": 1294000,
                 "objectType": "video"
             },
+            "expires": "2018-12-11T06:18:00",
             "tag": [
                 {
                     "name": "5393bc5e3245f1872d6e9a43",
@@ -1989,7 +1989,6 @@
             "guid": "MH-video-defta-56966684a555d74538913792"
         },
         {
-            "expires": "2018-12-10T19:15:00",
             "object": {
                 "displayName": "Maman & Ich - Folge 34",
                 "image": {
@@ -2013,6 +2012,7 @@
                 "duration": 288000,
                 "objectType": "video"
             },
+            "expires": "2018-12-10T19:15:00",
             "tag": [
                 {
                     "name": "4f131b4fd50c4e1c3c78bece",
@@ -2029,7 +2029,6 @@
             "guid": "MH-video-defta-576cbd645bef52aabae0756d"
         },
         {
-            "expires": "2018-12-10T19:08:00",
             "object": {
                 "displayName": "K.C. Undercover - Judy- eine fast perfekte Erfindung Teil 2",
                 "image": {
@@ -2053,6 +2052,7 @@
                 "duration": 1295000,
                 "objectType": "video"
             },
+            "expires": "2018-12-10T19:08:00",
             "tag": [
                 {
                     "name": "5085004c67dcedc15d2197f6",
@@ -2069,7 +2069,6 @@
             "guid": "MH-video-defta-57bc8491825489332277279f"
         },
         {
-            "expires": "2018-12-10T18:38:00",
             "object": {
                 "displayName": "Jessie - Die Weihnachtsgeschichte",
                 "image": {
@@ -2093,6 +2092,7 @@
                 "duration": 1297000,
                 "objectType": "video"
             },
+            "expires": "2018-12-10T18:38:00",
             "tag": [
                 {
                     "name": "4ba34a881346459e961b9666",
@@ -2109,7 +2109,6 @@
             "guid": "MH-video-defta-57bc808a75b055787387fa6f"
         },
         {
-            "expires": "2018-12-10T18:09:00",
             "object": {
                 "displayName": "Miraculous - Geschichten von Ladybug und Cat Noir - Die Spielshow",
                 "image": {
@@ -2133,6 +2132,7 @@
                 "duration": 1296000,
                 "objectType": "video"
             },
+            "expires": "2018-12-10T18:09:00",
             "tag": [
                 {
                     "name": "4f7cc6d25cdc9945c1f97dd4",
@@ -2149,7 +2149,6 @@
             "guid": "MH-video-defta-568682e4cb5aec3a1cef4ae8"
         },
         {
-            "expires": "2018-12-10T17:11:00",
             "object": {
                 "displayName": "DuckTales - Wer den Kreuzer nicht ehrt...",
                 "image": {
@@ -2173,6 +2172,7 @@
                 "duration": 1283000,
                 "objectType": "video"
             },
+            "expires": "2018-12-10T17:11:00",
             "tag": [
                 {
                     "name": "5482b0155a8d43e79a4d1b79",
@@ -2189,7 +2189,6 @@
             "guid": "MH-video-defta-5748444f09b95b0d3d19505e"
         },
         {
-            "expires": "2018-12-10T16:42:00",
             "object": {
                 "displayName": "Phineas und Ferb - Kampf der Daumen / Und Action!",
                 "image": {
@@ -2213,6 +2212,7 @@
                 "duration": 1295000,
                 "objectType": "video"
             },
+            "expires": "2018-12-10T16:42:00",
             "tag": [
                 {
                     "name": "4b90600fa9f7b50f422a8ba2",
@@ -2229,7 +2229,6 @@
             "guid": "MH-video-defta-575c05cd8dd9cd28d3240973"
         },
         {
-            "expires": "2018-12-10T15:07:00",
             "object": {
                 "displayName": "Baymax: Robowabohu in Serie - Der Kochkampf",
                 "image": {
@@ -2253,6 +2252,7 @@
                 "duration": 1269000,
                 "objectType": "video"
             },
+            "expires": "2018-12-10T15:07:00",
             "tag": [
                 {
                     "name": "55bc6ca0f6027481ecd269d3",
@@ -2269,7 +2269,6 @@
             "guid": "MH-video-defta-5784e9bdbefdeb15abb00f97"
         },
         {
-            "expires": "2018-12-10T13:58:00",
             "object": {
                 "displayName": "Elena von Avalor - Shurikis R\u00fcckkehr",
                 "image": {
@@ -2293,6 +2292,7 @@
                 "duration": 1296000,
                 "objectType": "video"
             },
+            "expires": "2018-12-10T13:58:00",
             "tag": [
                 {
                     "name": "531027d2fd0f527a659c9238",
@@ -2309,7 +2309,6 @@
             "guid": "MH-video-defta-56b15564d2f24f40ba2cfb59"
         },
         {
-            "expires": "2018-12-10T08:00:00",
             "object": {
                 "displayName": "Soy Luna - Folge 211",
                 "image": {
@@ -2333,6 +2332,7 @@
                 "duration": 2339000,
                 "objectType": "video"
             },
+            "expires": "2018-12-10T08:00:00",
             "tag": [
                 {
                     "name": "51ed74307455d6e8aac3d09e",
@@ -2349,7 +2349,6 @@
             "guid": "MH-video-defta-57be43d5b0abd5787387fa6f"
         },
         {
-            "expires": "2018-12-10T08:00:00",
             "object": {
                 "displayName": "Micky Maus - Der Badeteich",
                 "image": {
@@ -2373,6 +2372,7 @@
                 "duration": 220000,
                 "objectType": "video"
             },
+            "expires": "2018-12-10T08:00:00",
             "tag": [
                 {
                     "name": "4dbd6f527d2aa5b5acf0f446",
@@ -2389,7 +2389,6 @@
             "guid": "MH-video-defta-57c1cea240c2aaf44b97e602"
         },
         {
-            "expires": "2018-12-10T08:00:00",
             "object": {
                 "displayName": "Micky Maus - Nachbarschaftshilfe",
                 "image": {
@@ -2413,6 +2412,7 @@
                 "duration": 220000,
                 "objectType": "video"
             },
+            "expires": "2018-12-10T08:00:00",
             "tag": [
                 {
                     "name": "4dbd6f527d2aa5b5acf0f446",
@@ -2429,6 +2429,7 @@
             "guid": "MH-video-defta-57c217f54d9669332277279f"
         },
         {
+            "expires": "2018-12-10T08:00:00",
             "object": {
                 "displayName": "Star Wars: Die M\u00e4chte des Schicksals - Der Weg des Padawan",
                 "image": {
@@ -2452,14 +2453,13 @@
                 "duration": 172000,
                 "objectType": "video"
             },
-            "expires": "2018-12-10T08:00:00",
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 2,
                     "type": "MHID",
                     "id": "star-wars",
-                    "name": "star-wars"
+                    "name": "star-wars",
+                    "show_hierarchy": 2
                 }
             ],
             "coreid": "57c2ff48e8b9abe7e087978b",
@@ -2478,7 +2478,6 @@
             ]
         },
         {
-            "expires": "2018-12-10T07:46:00",
             "object": {
                 "displayName": "Vampirina - Vees \u00dcbernachtungsparty/Fotos und Flederm\u00e4use",
                 "image": {
@@ -2502,6 +2501,7 @@
                 "duration": 1382000,
                 "objectType": "video"
             },
+            "expires": "2018-12-10T07:46:00",
             "tag": [
                 {
                     "name": "5482ace7f6a7e2c5a4cc2cc9",
@@ -2518,7 +2518,6 @@
             "guid": "MH-video-defta-569669a650ce8f39f0941a5a"
         },
         {
-            "expires": "2018-12-10T06:47:00",
             "object": {
                 "displayName": "Micky und die flinken Flitzer - Mickys freier Tag/S\u00fc\u00dfer Einsatz",
                 "image": {
@@ -2542,6 +2541,7 @@
                 "duration": 1294000,
                 "objectType": "video"
             },
+            "expires": "2018-12-10T06:47:00",
             "tag": [
                 {
                     "name": "5393bc5e3245f1872d6e9a43",
@@ -2558,7 +2558,6 @@
             "guid": "MH-video-defta-576dcba0483bbc2fb8b86b10"
         },
         {
-            "expires": "2018-12-09T19:07:00",
             "object": {
                 "displayName": "K.C. Undercover - Judy- eine fast perfekte Erfindung Teil 1",
                 "image": {
@@ -2582,6 +2581,7 @@
                 "duration": 1341000,
                 "objectType": "video"
             },
+            "expires": "2018-12-09T19:07:00",
             "tag": [
                 {
                     "name": "5085004c67dcedc15d2197f6",
@@ -2598,7 +2598,6 @@
             "guid": "MH-video-defta-57bd5a414676ebe7e087978b"
         },
         {
-            "expires": "2018-12-09T18:38:00",
             "object": {
                 "displayName": "Jessie - Vorhang auf f\u00fcr Grusel-Connie",
                 "image": {
@@ -2622,6 +2621,7 @@
                 "duration": 1326000,
                 "objectType": "video"
             },
+            "expires": "2018-12-09T18:38:00",
             "tag": [
                 {
                     "name": "4ba34a881346459e961b9666",
@@ -2638,7 +2638,6 @@
             "guid": "MH-video-defta-56b5f32bd1004bb1d9e57488"
         },
         {
-            "expires": "2018-12-09T13:20:00",
             "object": {
                 "displayName": "Spider-Man - Zeit f\u00fcr Party!",
                 "image": {
@@ -2662,6 +2661,7 @@
                 "duration": 1269000,
                 "objectType": "video"
             },
+            "expires": "2018-12-09T13:20:00",
             "tag": [
                 {
                     "name": "54e127fe12d2ce3193adaa1a",
@@ -2678,7 +2678,6 @@
             "guid": "MH-video-defta-57bcce53a32ae5787387fa6f"
         },
         {
-            "expires": "2018-12-09T12:52:00",
             "object": {
                 "displayName": "Spider-Man - Black Cat",
                 "image": {
@@ -2702,6 +2701,7 @@
                 "duration": 1269000,
                 "objectType": "video"
             },
+            "expires": "2018-12-09T12:52:00",
             "tag": [
                 {
                     "name": "54e127fe12d2ce3193adaa1a",
@@ -2718,7 +2718,6 @@
             "guid": "MH-video-defta-57bc08102a8aabe7e087978b"
         },
         {
-            "expires": "2018-12-09T09:11:00",
             "object": {
                 "displayName": "An die T\u00f6pfe, fertig, lecker! - An die T\u00f6pfe, fertig, lecker! mit Fernanda Brandao",
                 "image": {
@@ -2742,6 +2741,7 @@
                 "duration": 716000,
                 "objectType": "video"
             },
+            "expires": "2018-12-09T09:11:00",
             "tag": [
                 {
                     "name": "547ee3abe78ae3e79a4d1b79",
@@ -2758,7 +2758,6 @@
             "guid": "MH-video-defta-56ea3e98cb6318427a8ce85a"
         },
         {
-            "expires": "2018-12-09T08:18:00",
             "object": {
                 "displayName": "Rapunzel - Die Serie - So frei wie ein Vogel",
                 "image": {
@@ -2782,6 +2781,7 @@
                 "duration": 1297000,
                 "objectType": "video"
             },
+            "expires": "2018-12-09T08:18:00",
             "tag": [
                 {
                     "name": "5478a9889d6cd3e79a4d1b79",
@@ -2798,7 +2798,6 @@
             "guid": "MH-video-defta-5785fd753e451815864755eb"
         },
         {
-            "expires": "2018-12-09T07:50:00",
             "object": {
                 "displayName": "My Little Pony - Freundschaft ist Magie - Was darunter verborgen liegt",
                 "image": {
@@ -2822,6 +2821,7 @@
                 "duration": 1265000,
                 "objectType": "video"
             },
+            "expires": "2018-12-09T07:50:00",
             "tag": [
                 {
                     "name": "56e6057f05fb874a187b51d9",
@@ -2838,7 +2838,6 @@
             "guid": "MH-video-defta-57bc0206aec63af44b97e602"
         },
         {
-            "expires": "2018-12-08T19:07:00",
             "object": {
                 "displayName": "K.C. Undercover - Ein Kerl wie K. C.",
                 "image": {
@@ -2862,6 +2861,7 @@
                 "duration": 1282000,
                 "objectType": "video"
             },
+            "expires": "2018-12-08T19:07:00",
             "tag": [
                 {
                     "name": "5085004c67dcedc15d2197f6",
@@ -2878,7 +2878,6 @@
             "guid": "MH-video-defta-57bbfce71b36f0aa7eb13046"
         },
         {
-            "expires": "2018-12-08T18:38:00",
             "object": {
                 "displayName": "Jessie - Albtr\u00e4ume",
                 "image": {
@@ -2902,6 +2901,7 @@
                 "duration": 1326000,
                 "objectType": "video"
             },
+            "expires": "2018-12-08T18:38:00",
             "tag": [
                 {
                     "name": "4ba34a881346459e961b9666",
@@ -2918,7 +2918,6 @@
             "guid": "MH-video-defta-56b5f332bf81cbb1d9e57488"
         },
         {
-            "expires": "2018-12-08T11:22:00",
             "object": {
                 "displayName": "Star Wars: Die Abenteuer der Freemaker - Gef\u00e4hrliche Rettung",
                 "image": {
@@ -2942,6 +2941,7 @@
                 "duration": 1269000,
                 "objectType": "video"
             },
+            "expires": "2018-12-08T11:22:00",
             "tag": [
                 {
                     "name": "5342a7d8d43aaeb77b849c41",
@@ -2958,7 +2958,6 @@
             "guid": "MH-video-defta-57bbf6dc43aba82d7f4e6d65"
         },
         {
-            "expires": "2018-12-08T10:53:00",
             "object": {
                 "displayName": "Star Wars: Die Abenteuer der Freemaker - Der Flug der Arrowhead",
                 "image": {
@@ -2982,6 +2981,7 @@
                 "duration": 1269000,
                 "objectType": "video"
             },
+            "expires": "2018-12-08T10:53:00",
             "tag": [
                 {
                     "name": "5342a7d8d43aaeb77b849c41",
@@ -2998,7 +2998,6 @@
             "guid": "MH-video-defta-57bbe61ac3aacaf44b97e602"
         },
         {
-            "expires": "2018-12-08T09:11:00",
             "object": {
                 "displayName": "Die Beni Challenge - Benis magische Kr\u00e4fte",
                 "image": {
@@ -3022,6 +3021,7 @@
                 "duration": 636000,
                 "objectType": "video"
             },
+            "expires": "2018-12-08T09:11:00",
             "tag": [
                 {
                     "name": "5673616c0208365f24c2d659",
@@ -3038,7 +3038,6 @@
             "guid": "MH-video-defta-57bbdb277fdeb0aa7eb13046"
         },
         {
-            "expires": "2018-12-08T08:18:00",
             "object": {
                 "displayName": "Rapunzel - Die Serie - Wald ohne Wiederkehr",
                 "image": {
@@ -3062,6 +3061,7 @@
                 "duration": 1297000,
                 "objectType": "video"
             },
+            "expires": "2018-12-08T08:18:00",
             "tag": [
                 {
                     "name": "5478a9889d6cd3e79a4d1b79",
@@ -3078,7 +3078,6 @@
             "guid": "MH-video-defta-5785f247d945904570d35f90"
         },
         {
-            "expires": "2018-12-08T07:50:00",
             "object": {
                 "displayName": "My Little Pony - Freundschaft ist Magie - Rockhoofs moderne Zeiten",
                 "image": {
@@ -3102,6 +3101,7 @@
                 "duration": 1265000,
                 "objectType": "video"
             },
+            "expires": "2018-12-08T07:50:00",
             "tag": [
                 {
                     "name": "56e6057f05fb874a187b51d9",
@@ -3118,7 +3118,6 @@
             "guid": "MH-video-defta-57bbd5539ace4be7e087978b"
         },
         {
-            "expires": "2018-12-08T07:19:00",
             "object": {
                 "displayName": "Super 4 - Supersykronier/T\u00fccken der Tanzschuh-Technik",
                 "image": {
@@ -3142,6 +3141,7 @@
                 "duration": 1416000,
                 "objectType": "video"
             },
+            "expires": "2018-12-08T07:19:00",
             "tag": [
                 {
                     "name": "50f598e50d1a60cea74f31ce",
@@ -3190,7 +3190,6 @@
             "guid": "MH-video-defta-57be1b95f0db6be7e087978b"
         },
         {
-            "expires": "2018-12-07T19:15:00",
             "object": {
                 "displayName": "Maman & Ich - Folge 28",
                 "image": {
@@ -3214,6 +3213,7 @@
                 "duration": 295000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T19:15:00",
             "tag": [
                 {
                     "name": "4f131b4fd50c4e1c3c78bece",
@@ -3230,7 +3230,6 @@
             "guid": "MH-video-defta-56f280426d0c658f89df01df"
         },
         {
-            "expires": "2018-12-07T19:08:00",
             "object": {
                 "displayName": "K.C. Undercover - Der Mutter-Tochter-Ball",
                 "image": {
@@ -3254,6 +3253,7 @@
                 "duration": 1354000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T19:08:00",
             "tag": [
                 {
                     "name": "5085004c67dcedc15d2197f6",
@@ -3270,7 +3270,6 @@
             "guid": "MH-video-defta-57b55c5fe592482d7f4e6d65"
         },
         {
-            "expires": "2018-12-07T18:38:00",
             "object": {
                 "displayName": "Jessie - Sturm in der Teetasse",
                 "image": {
@@ -3294,6 +3293,7 @@
                 "duration": 1297000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T18:38:00",
             "tag": [
                 {
                     "name": "4ba34a881346459e961b9666",
@@ -3310,7 +3310,6 @@
             "guid": "MH-video-defta-56b5f335134c6bb1d9e57488"
         },
         {
-            "expires": "2018-12-07T18:09:00",
             "object": {
                 "displayName": "Miraculous - Geschichten von Ladybug und Cat Noir - Tag der Helden \u2013 Teil 2",
                 "image": {
@@ -3334,6 +3333,7 @@
                 "duration": 1287000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T18:09:00",
             "tag": [
                 {
                     "name": "4f7cc6d25cdc9945c1f97dd4",
@@ -3350,7 +3350,6 @@
             "guid": "MH-video-defta-57b55c3a77d4482d7f4e6d65"
         },
         {
-            "expires": "2018-12-07T17:11:00",
             "object": {
                 "displayName": "DuckTales - Das Geburtstagsmysterium",
                 "image": {
@@ -3374,6 +3373,7 @@
                 "duration": 1297000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T17:11:00",
             "tag": [
                 {
                     "name": "5482b0155a8d43e79a4d1b79",
@@ -3390,7 +3390,6 @@
             "guid": "MH-video-defta-575cc356808bc2278d2ad941"
         },
         {
-            "expires": "2018-12-07T13:58:00",
             "object": {
                 "displayName": "Elena von Avalor - Die Wissenschaftsmesse",
                 "image": {
@@ -3414,6 +3413,7 @@
                 "duration": 1296000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T13:58:00",
             "tag": [
                 {
                     "name": "531027d2fd0f527a659c9238",
@@ -3430,7 +3430,6 @@
             "guid": "MH-video-defta-56b142d64b8344eb9cd158de"
         },
         {
-            "expires": "2018-12-07T08:08:00",
             "object": {
                 "displayName": "Camp Kikiwaka - Knochenfunde",
                 "image": {
@@ -3454,6 +3453,7 @@
                 "duration": 1282000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:08:00",
             "tag": [
                 {
                     "name": "51adce8ee9b99a652c285ce5",
@@ -3470,7 +3470,6 @@
             "guid": "MH-video-defta-572f1ce69b5c3cd76155c833"
         },
         {
-            "expires": "2018-12-07T08:08:00",
             "object": {
                 "displayName": "Violetta - Folge 75",
                 "image": {
@@ -3494,6 +3493,7 @@
                 "duration": 2557000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:08:00",
             "tag": [
                 {
                     "name": "5058965836a8b56f452bd4de",
@@ -3510,7 +3510,6 @@
             "guid": "MH-video-defta-57b55c549876982d7f4e6d65"
         },
         {
-            "expires": "2018-12-07T08:08:00",
             "object": {
                 "displayName": "Hund mit Blog - Wer trainiert hier wen?",
                 "image": {
@@ -3534,6 +3533,7 @@
                 "duration": 1296000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:08:00",
             "tag": [
                 {
                     "name": "4cc3602d830f67523edb4496",
@@ -3550,7 +3550,6 @@
             "guid": "MH-video-defta-57b55cc5e6ca182d7f4e6d65"
         },
         {
-            "expires": "2018-12-07T08:08:00",
             "object": {
                 "displayName": "Hotel Zack & Cody - Entspannt Euch!",
                 "image": {
@@ -3574,6 +3573,7 @@
                 "duration": 1358000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:08:00",
             "tag": [
                 {
                     "name": "4ba34bc22f3a859e961b9666",
@@ -3590,7 +3590,6 @@
             "guid": "MH-video-defta-57bcf977a57f8af44b97e602"
         },
         {
-            "expires": "2018-12-07T08:06:00",
             "object": {
                 "displayName": "Camp Kikiwaka - Jede Menge Hummer",
                 "image": {
@@ -3614,6 +3613,7 @@
                 "duration": 1291000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:06:00",
             "tag": [
                 {
                     "name": "51adce8ee9b99a652c285ce5",
@@ -3630,7 +3630,6 @@
             "guid": "MH-video-defta-572f0a2059d541e7f4c4eefd"
         },
         {
-            "expires": "2018-12-07T08:06:00",
             "object": {
                 "displayName": "Hund mit Blog - Ein perfektes Weihnachtsfest",
                 "image": {
@@ -3654,6 +3653,7 @@
                 "duration": 1282000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:06:00",
             "tag": [
                 {
                     "name": "4cc3602d830f67523edb4496",
@@ -3670,7 +3670,6 @@
             "guid": "MH-video-defta-57b35006e46be5787387fa6f"
         },
         {
-            "expires": "2018-12-07T08:06:00",
             "object": {
                 "displayName": "Violetta - Folge 74",
                 "image": {
@@ -3694,6 +3693,7 @@
                 "duration": 2586000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:06:00",
             "tag": [
                 {
                     "name": "5058965836a8b56f452bd4de",
@@ -3710,7 +3710,6 @@
             "guid": "MH-video-defta-57b55c36b910982d7f4e6d65"
         },
         {
-            "expires": "2018-12-07T08:06:00",
             "object": {
                 "displayName": "Hotel Zack & Cody - Cody zieht aus",
                 "image": {
@@ -3734,6 +3733,7 @@
                 "duration": 1359000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:06:00",
             "tag": [
                 {
                     "name": "4ba34bc22f3a859e961b9666",
@@ -3750,7 +3750,6 @@
             "guid": "MH-video-defta-57b55c3ea465682d7f4e6d65"
         },
         {
-            "expires": "2018-12-07T08:04:00",
             "object": {
                 "displayName": "Camp Kikiwaka - Der Kochwettbwerb",
                 "image": {
@@ -3774,6 +3773,7 @@
                 "duration": 1368000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:04:00",
             "tag": [
                 {
                     "name": "51adce8ee9b99a652c285ce5",
@@ -3790,7 +3790,6 @@
             "guid": "MH-video-defta-5724d84f97b5a9b238ccd4bb"
         },
         {
-            "expires": "2018-12-07T08:04:00",
             "object": {
                 "displayName": "Violetta - Folge 73",
                 "image": {
@@ -3814,6 +3813,7 @@
                 "duration": 2480000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:04:00",
             "tag": [
                 {
                     "name": "5058965836a8b56f452bd4de",
@@ -3830,7 +3830,6 @@
             "guid": "MH-video-defta-57b55c421814882d7f4e6d65"
         },
         {
-            "expires": "2018-12-07T08:04:00",
             "object": {
                 "displayName": "Hotel Zack & Cody - Tippy geht in Rente",
                 "image": {
@@ -3854,6 +3853,7 @@
                 "duration": 1358000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:04:00",
             "tag": [
                 {
                     "name": "4ba34bc22f3a859e961b9666",
@@ -3870,7 +3870,6 @@
             "guid": "MH-video-defta-57b55cbf5c41182d7f4e6d65"
         },
         {
-            "expires": "2018-12-07T08:04:00",
             "object": {
                 "displayName": "Hund mit Blog - Die Nervens\u00e4ge",
                 "image": {
@@ -3894,6 +3893,7 @@
                 "duration": 1268000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:04:00",
             "tag": [
                 {
                     "name": "4cc3602d830f67523edb4496",
@@ -3910,7 +3910,6 @@
             "guid": "MH-video-defta-57baa3c6e6afa9332277279f"
         },
         {
-            "expires": "2018-12-07T08:02:00",
             "object": {
                 "displayName": "Camp Kikiwaka - Das Kikiwaka-Monster",
                 "image": {
@@ -3934,6 +3933,7 @@
                 "duration": 1315000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:02:00",
             "tag": [
                 {
                     "name": "51adce8ee9b99a652c285ce5",
@@ -3950,7 +3950,6 @@
             "guid": "MH-video-defta-5724d850d17a59b238ccd4bb"
         },
         {
-            "expires": "2018-12-07T08:02:00",
             "object": {
                 "displayName": "Hotel Zack & Cody - Dolmetscher Moseby",
                 "image": {
@@ -3974,6 +3973,7 @@
                 "duration": 1358000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:02:00",
             "tag": [
                 {
                     "name": "4ba34bc22f3a859e961b9666",
@@ -3990,7 +3990,6 @@
             "guid": "MH-video-defta-57b55cb5c458682d7f4e6d65"
         },
         {
-            "expires": "2018-12-07T08:02:00",
             "object": {
                 "displayName": "Hund mit Blog - Tylers neue Freundin",
                 "image": {
@@ -4014,6 +4013,7 @@
                 "duration": 1268000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:02:00",
             "tag": [
                 {
                     "name": "4cc3602d830f67523edb4496",
@@ -4030,7 +4030,6 @@
             "guid": "MH-video-defta-57b55cb916f6682d7f4e6d65"
         },
         {
-            "expires": "2018-12-07T08:02:00",
             "object": {
                 "displayName": "Violetta - Folge 72",
                 "image": {
@@ -4054,6 +4053,7 @@
                 "duration": 2550000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:02:00",
             "tag": [
                 {
                     "name": "5058965836a8b56f452bd4de",
@@ -4070,7 +4070,6 @@
             "guid": "MH-video-defta-57baaf2ed4bef9332277279f"
         },
         {
-            "expires": "2018-12-07T08:00:00",
             "object": {
                 "displayName": "Camp Kikiwaka - Schwestern-Power",
                 "image": {
@@ -4094,6 +4093,7 @@
                 "duration": 1325000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:00:00",
             "tag": [
                 {
                     "name": "51adce8ee9b99a652c285ce5",
@@ -4110,7 +4110,6 @@
             "guid": "MH-video-defta-57175598aba9c9ebf8d65678"
         },
         {
-            "expires": "2018-12-07T08:00:00",
             "object": {
                 "displayName": "Soy Luna - Folge 210",
                 "image": {
@@ -4134,6 +4133,7 @@
                 "duration": 2732000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:00:00",
             "tag": [
                 {
                     "name": "51ed74307455d6e8aac3d09e",
@@ -4150,7 +4150,6 @@
             "guid": "MH-video-defta-57b55c3321cb582d7f4e6d65"
         },
         {
-            "expires": "2018-12-07T08:00:00",
             "object": {
                 "displayName": "Hotel Zack & Cody - Werbeunterbrechungen",
                 "image": {
@@ -4174,6 +4173,7 @@
                 "duration": 1356000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:00:00",
             "tag": [
                 {
                     "name": "4ba34bc22f3a859e961b9666",
@@ -4190,7 +4190,6 @@
             "guid": "MH-video-defta-57b55cc2d2b9882d7f4e6d65"
         },
         {
-            "expires": "2018-12-07T08:00:00",
             "object": {
                 "displayName": "Hund mit Blog - Das Verm\u00e4chtnis",
                 "image": {
@@ -4214,6 +4213,7 @@
                 "duration": 1311000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:00:00",
             "tag": [
                 {
                     "name": "4cc3602d830f67523edb4496",
@@ -4230,7 +4230,6 @@
             "guid": "MH-video-defta-57baa559967bd9332277279f"
         },
         {
-            "expires": "2018-12-07T08:00:00",
             "object": {
                 "displayName": "Violetta - Folge 71",
                 "image": {
@@ -4254,6 +4253,7 @@
                 "duration": 2493000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T08:00:00",
             "tag": [
                 {
                     "name": "5058965836a8b56f452bd4de",
@@ -4270,7 +4270,6 @@
             "guid": "MH-video-defta-57baba5b953fa9332277279f"
         },
         {
-            "expires": "2018-12-07T06:18:00",
             "object": {
                 "displayName": "Micky und die flinken Flitzer - Billy Beagles Tip-Top-Garage/Die Hilfreichen Restaurant-Retter",
                 "image": {
@@ -4294,6 +4293,7 @@
                 "duration": 1294000,
                 "objectType": "video"
             },
+            "expires": "2018-12-07T06:18:00",
             "tag": [
                 {
                     "name": "5393bc5e3245f1872d6e9a43",
@@ -4310,7 +4310,6 @@
             "guid": "MH-video-defta-576ccb0a11517696ef702319"
         },
         {
-            "expires": "2018-12-06T19:15:00",
             "object": {
                 "displayName": "Maman & Ich - Folge 26",
                 "image": {
@@ -4334,6 +4333,7 @@
                 "duration": 300000,
                 "objectType": "video"
             },
+            "expires": "2018-12-06T19:15:00",
             "tag": [
                 {
                     "name": "4f131b4fd50c4e1c3c78bece",
@@ -4350,7 +4350,6 @@
             "guid": "MH-video-defta-57653f2d766f9696ef702319"
         },
         {
-            "expires": "2018-12-06T19:08:00",
             "object": {
                 "displayName": "K.C. Undercover - Die verschwundene Dame",
                 "image": {
@@ -4374,6 +4373,7 @@
                 "duration": 1282000,
                 "objectType": "video"
             },
+            "expires": "2018-12-06T19:08:00",
             "tag": [
                 {
                     "name": "5085004c67dcedc15d2197f6",
@@ -4390,7 +4390,6 @@
             "guid": "MH-video-defta-57b4fefad690d82d7f4e6d65"
         },
         {
-            "expires": "2018-12-06T18:38:00",
             "object": {
                 "displayName": "Jessie - Die Sch\u00f6ne und die Biester",
                 "image": {
@@ -4414,6 +4413,7 @@
                 "duration": 1297000,
                 "objectType": "video"
             },
+            "expires": "2018-12-06T18:38:00",
             "tag": [
                 {
                     "name": "4ba34a881346459e961b9666",
@@ -4430,7 +4430,6 @@
             "guid": "MH-video-defta-56b5f336f3539bb1d9e57488"
         },
         {
-            "expires": "2018-12-06T18:09:00",
             "object": {
                 "displayName": "Miraculous - Geschichten von Ladybug und Cat Noir - Tag der Helden \u2013 Teil 1",
                 "image": {
@@ -4454,6 +4453,7 @@
                 "duration": 1408000,
                 "objectType": "video"
             },
+            "expires": "2018-12-06T18:09:00",
             "tag": [
                 {
                     "name": "4f7cc6d25cdc9945c1f97dd4",
@@ -4470,7 +4470,6 @@
             "guid": "MH-video-defta-57b4fefa45ace82d7f4e6d65"
         },
         {
-            "expires": "2018-12-06T17:11:00",
             "object": {
                 "displayName": "DuckTales - Golfen im Moortal",
                 "image": {
@@ -4494,6 +4493,7 @@
                 "duration": 1297000,
                 "objectType": "video"
             },
+            "expires": "2018-12-06T17:11:00",
             "tag": [
                 {
                     "name": "5482b0155a8d43e79a4d1b79",
@@ -4510,7 +4510,6 @@
             "guid": "MH-video-defta-575c05cf11a35d28d3240973"
         },
         {
-            "expires": "2018-12-06T13:58:00",
             "object": {
                 "displayName": "Elena von Avalor - Die unbekannte Verwandte",
                 "image": {
@@ -4534,6 +4533,7 @@
                 "duration": 1298000,
                 "objectType": "video"
             },
+            "expires": "2018-12-06T13:58:00",
             "tag": [
                 {
                     "name": "531027d2fd0f527a659c9238",
@@ -4550,7 +4550,6 @@
             "guid": "MH-video-defta-56ac91396e042f2bdde9cac1"
         },
         {
-            "expires": "2018-12-06T08:00:00",
             "object": {
                 "displayName": "Soy Luna - Folge 209",
                 "image": {
@@ -4574,6 +4573,7 @@
                 "duration": 2528000,
                 "objectType": "video"
             },
+            "expires": "2018-12-06T08:00:00",
             "tag": [
                 {
                     "name": "51ed74307455d6e8aac3d09e",
@@ -4590,7 +4590,6 @@
             "guid": "MH-video-defta-57b4fb9fd3b4782d7f4e6d65"
         },
         {
-            "expires": "2018-12-06T07:16:00",
             "object": {
                 "displayName": "PJ Masks - Pyjamahelden - Babysitter Gecko/Eulettes Luna-\u00c4rger",
                 "image": {
@@ -4614,6 +4613,7 @@
                 "duration": 1382000,
                 "objectType": "video"
             },
+            "expires": "2018-12-06T07:16:00",
             "tag": [
                 {
                     "name": "5241d2eb1ade54bc8bba7f59",
@@ -4630,7 +4630,6 @@
             "guid": "MH-video-defta-57a3149eb3931be7e087978b"
         },
         {
-            "expires": "2018-12-06T06:18:00",
             "object": {
                 "displayName": "Micky und die flinken Flitzer - Das Haustier-Rennen/Figaros neuer Freund",
                 "image": {
@@ -4654,6 +4653,7 @@
                 "duration": 1294000,
                 "objectType": "video"
             },
+            "expires": "2018-12-06T06:18:00",
             "tag": [
                 {
                     "name": "5393bc5e3245f1872d6e9a43",
@@ -4670,7 +4670,6 @@
             "guid": "MH-video-defta-576cb0e80fbda0671b5faafb"
         },
         {
-            "expires": "2018-12-05T19:15:00",
             "object": {
                 "displayName": "Maman & Ich - Folge 24",
                 "image": {
@@ -4694,6 +4693,7 @@
                 "duration": 236000,
                 "objectType": "video"
             },
+            "expires": "2018-12-05T19:15:00",
             "tag": [
                 {
                     "name": "4f131b4fd50c4e1c3c78bece",
@@ -4710,7 +4710,6 @@
             "guid": "MH-video-defta-57659d0df6de80671b5faafb"
         },
         {
-            "expires": "2018-12-05T19:08:00",
             "object": {
                 "displayName": "K.C. Undercover - Operation: Auf der anderen Seite Teil 2",
                 "image": {
@@ -4734,6 +4733,7 @@
                 "duration": 1340000,
                 "objectType": "video"
             },
+            "expires": "2018-12-05T19:08:00",
             "tag": [
                 {
                     "name": "5085004c67dcedc15d2197f6",
@@ -4750,7 +4750,6 @@
             "guid": "MH-video-defta-57b4f5937ee70af44b97e602"
         },
         {
-            "expires": "2018-12-05T18:38:00",
             "object": {
                 "displayName": "Jessie - B\u00f6se Jungs",
                 "image": {
@@ -4774,6 +4773,7 @@
                 "duration": 1311000,
                 "objectType": "video"
             },
+            "expires": "2018-12-05T18:38:00",
             "tag": [
                 {
                     "name": "4ba34a881346459e961b9666",
@@ -4790,7 +4790,6 @@
             "guid": "MH-video-defta-56b5f3321f574bb1d9e57488"
         },
         {
-            "expires": "2018-12-05T18:09:00",
             "object": {
                 "displayName": "Miraculous - Geschichten von Ladybug und Cat Noir - Reverser",
                 "image": {
@@ -4814,6 +4813,7 @@
                 "duration": 1297000,
                 "objectType": "video"
             },
+            "expires": "2018-12-05T18:09:00",
             "tag": [
                 {
                     "name": "4f7cc6d25cdc9945c1f97dd4",
@@ -4830,7 +4830,6 @@
             "guid": "MH-video-defta-579a295f9595bbe7e087978b"
         },
         {
-            "expires": "2018-12-05T17:11:00",
             "object": {
                 "displayName": "DuckTales - Achtung vor dem B.U.D.D.Y. System!",
                 "image": {
@@ -4854,6 +4853,7 @@
                 "duration": 1297000,
                 "objectType": "video"
             },
+            "expires": "2018-12-05T17:11:00",
             "tag": [
                 {
                     "name": "5482b0155a8d43e79a4d1b79",
@@ -4870,7 +4870,6 @@
             "guid": "MH-video-defta-575aef5822be3d28d3240973"
         },
         {
-            "expires": "2018-12-05T09:54:00",
             "object": {
                 "displayName": "Pat der Hund - Die Weltraumausstellung/Pats Geburtstagsgeschenk/Falsches Spiel",
                 "image": {
@@ -4894,6 +4893,7 @@
                 "duration": 1256000,
                 "objectType": "video"
             },
+            "expires": "2018-12-05T09:54:00",
             "tag": [
                 {
                     "name": "552130cd071228ab37732626",
@@ -5788,10 +5788,10 @@
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "genericStarWars",
-                    "name": "genericStarWars"
+                    "name": "genericStarWars",
+                    "show_hierarchy": 1
                 }
             ],
             "coreid": "566f830ffd3e0ba705d5fc7e",
@@ -5801,10 +5801,10 @@
             "old_tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "genericStarWars",
-                    "name": "genericStarWars"
+                    "name": "genericStarWars",
+                    "show_hierarchy": 1
                 }
             ]
         },
@@ -5828,10 +5828,10 @@
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "genericStarWars",
-                    "name": "genericStarWars"
+                    "name": "genericStarWars",
+                    "show_hierarchy": 1
                 }
             ],
             "coreid": "566f830c29055ba705d5fc7e",
@@ -5841,10 +5841,10 @@
             "old_tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "genericStarWars",
-                    "name": "genericStarWars"
+                    "name": "genericStarWars",
+                    "show_hierarchy": 1
                 }
             ]
         },
@@ -5910,10 +5910,10 @@
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "genericStarWars",
-                    "name": "genericStarWars"
+                    "name": "genericStarWars",
+                    "show_hierarchy": 1
                 }
             ],
             "coreid": "5666f9c184b8b1cebbb71ae9",
@@ -5923,10 +5923,10 @@
             "old_tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "genericStarWars",
-                    "name": "genericStarWars"
+                    "name": "genericStarWars",
+                    "show_hierarchy": 1
                 }
             ]
         },
@@ -6045,10 +6045,10 @@
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "genericStarWars",
-                    "name": "genericStarWars"
+                    "name": "genericStarWars",
+                    "show_hierarchy": 1
                 }
             ],
             "coreid": "5666fa3d4d0b61cebbb71ae9",
@@ -6058,10 +6058,10 @@
             "old_tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "genericStarWars",
-                    "name": "genericStarWars"
+                    "name": "genericStarWars",
+                    "show_hierarchy": 1
                 }
             ]
         },
@@ -6341,10 +6341,10 @@
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 2,
                     "type": "MHID",
                     "id": "star-wars",
-                    "name": "star-wars"
+                    "name": "star-wars",
+                    "show_hierarchy": 2
                 }
             ],
             "coreid": "56a3260d8cf6820ec944af9d",
@@ -9355,10 +9355,10 @@
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 2,
                     "type": "MHID",
                     "id": "star-wars",
-                    "name": "star-wars"
+                    "name": "star-wars",
+                    "show_hierarchy": 2
                 }
             ],
             "coreid": "56d076242f3548e1f8d6ad18",
@@ -9396,10 +9396,10 @@
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 2,
                     "type": "MHID",
                     "id": "star-wars",
-                    "name": "star-wars"
+                    "name": "star-wars",
+                    "show_hierarchy": 2
                 }
             ],
             "coreid": "56a32608f699b20ec944af9d",
@@ -9849,10 +9849,10 @@
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "genericStarWars",
-                    "name": "genericStarWars"
+                    "name": "genericStarWars",
+                    "show_hierarchy": 1
                 }
             ],
             "coreid": "567d5badc984b0b2217cc6c4",
@@ -9946,10 +9946,10 @@
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "genericStarWars",
-                    "name": "genericStarWars"
+                    "name": "genericStarWars",
+                    "show_hierarchy": 1
                 }
             ],
             "coreid": "566fc9de45a588aba1065d53",
@@ -10010,10 +10010,10 @@
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "genericStarWars",
-                    "name": "genericStarWars"
+                    "name": "genericStarWars",
+                    "show_hierarchy": 1
                 }
             ],
             "coreid": "566bdda12a879709299b67a0",
@@ -10074,10 +10074,10 @@
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "genericStarWars",
-                    "name": "genericStarWars"
+                    "name": "genericStarWars",
+                    "show_hierarchy": 1
                 }
             ],
             "coreid": "5666b0614675e62686738afa",
@@ -10429,8 +10429,8 @@
             },
             "tag": [
                 {
-                    "type": "MHID",
                     "displayName": "Donald Duck",
+                    "type": "MHID",
                     "property_id": "4df0d3d372c0e940b428bc0f",
                     "show_hierarchy": 1
                 }
@@ -10686,10 +10686,10 @@
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "5478a9889d6cd3e79a4d1b79",
-                    "name": "5478a9889d6cd3e79a4d1b79"
+                    "name": "5478a9889d6cd3e79a4d1b79",
+                    "show_hierarchy": 1
                 }
             ],
             "coreid": "55fcf435f7b8262cb4092c11",
@@ -10738,10 +10738,10 @@
                 },
                 "content": "Kein Zutritt f\u00fcr Droiden im \"Mindestens 2 Binks\"? Darth Vader sieht das anders.",
                 "kaltura": {
-                    "type_group": "shortform",
+                    "classification": "No Age Consent",
                     "type": "Short",
                     "id": "1_z5jh2u3f",
-                    "classification": "No Age Consent",
+                    "type_group": "shortform",
                     "classification_array": {
                         "rating": "No Age Consent",
                         "board": "fsk"
@@ -10753,10 +10753,10 @@
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "genericStarWars",
-                    "name": "genericStarWars"
+                    "name": "genericStarWars",
+                    "show_hierarchy": 1
                 }
             ],
             "coreid": "54fde7709fa76d951e4b5159",
@@ -10838,10 +10838,10 @@
                 },
                 "content": "Kann Skywalker das gro\u00dfe Podrennen gewinnen?",
                 "kaltura": {
-                    "type_group": "shortform",
+                    "classification": "No Age Consent",
                     "type": "Short",
                     "id": "1_rotpfoss",
-                    "classification": "No Age Consent",
+                    "type_group": "shortform",
                     "classification_array": {
                         "rating": "No Age Consent",
                         "board": "fsk"
@@ -10853,10 +10853,10 @@
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "genericStarWars",
-                    "name": "genericStarWars"
+                    "name": "genericStarWars",
+                    "show_hierarchy": 1
                 }
             ],
             "coreid": "54fde7bc85e9e40af6f4723f",
@@ -10872,10 +10872,10 @@
                 },
                 "content": "Luke nutzt die Macht, um sich ein teures Fahrzeug auszuleihen.",
                 "kaltura": {
-                    "type_group": "shortform",
+                    "classification": "No Age Consent",
                     "type": "Short",
                     "id": "1_nb4nju3y",
-                    "classification": "No Age Consent",
+                    "type_group": "shortform",
                     "classification_array": {
                         "rating": "No Age Consent",
                         "board": "fsk"
@@ -10887,10 +10887,10 @@
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "genericStarWars",
-                    "name": "genericStarWars"
+                    "name": "genericStarWars",
+                    "show_hierarchy": 1
                 }
             ],
             "coreid": "54fde7c6e50df40af6f4723f",
@@ -10951,10 +10951,10 @@
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "genericStarWars",
-                    "name": "genericStarWars"
+                    "name": "genericStarWars",
+                    "show_hierarchy": 1
                 }
             ],
             "coreid": "557f5e7cd29f59beed1b1178",
@@ -10982,10 +10982,10 @@
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "genericStarWars",
-                    "name": "genericStarWars"
+                    "name": "genericStarWars",
+                    "show_hierarchy": 1
                 }
             ],
             "coreid": "557f5d1bb5b5f9beed1b1178",
@@ -11013,10 +11013,10 @@
             "tag": [
                 {
                     "subtype": "Show",
-                    "show_hierarchy": 1,
                     "type": "MHID",
                     "id": "genericStarWars",
-                    "name": "genericStarWars"
+                    "name": "genericStarWars",
+                    "show_hierarchy": 1
                 }
             ],
             "coreid": "557f5dc7487bb9beed1b1178",
@@ -11553,11 +11553,10 @@
                 "enabled": true
             }
         },
-        "kaltura": {
-            "permission_referrer": "http://disney.de",
-            "endpoint": "https://cdnapisec.kaltura.com",
-            "partner_id": "1068292",
-            "uiconf": "35883721"
+        "epg_config": {
+            "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/_schedule/full/[DATESTAMP]/[OFFSET]/epg",
+            "livestream": "1_woce098v",
+            "days_ahead": 7
         },
         "native_ad_delay": "90",
         "localisations": {
@@ -11591,10 +11590,10 @@
             "pick_favorites_long_tap": "HALTE EINE SERIE GEDR\u00dcCKT, UM DEINE FAVORITEN ZU BEARBEITEN",
             "connection_changed_wifi": "Du bist jetzt in einem W-LAN angemeldet.",
             "pick_favorites_step_4": "SUPER! LOS GEHT'S!",
+            "chose_country_title": "L\u00e4nderauswahl",
             "now": "Jetzt",
             "expires_in_days": "LETZTE CHANCE",
             "title_epg": "im TV",
-            "tutorial_shows_message": "HIER FINDEST DU ALLE SERIEN. DEINE LIEBLINGSSERIEN WERDEN OBEN ANGEZEIGT! DR\u00dcCKE LANGE, UM DIESE ZU BEARBEITEN.",
             "show_overview_title": "DEINE SERIEN",
             "video_localized_error": "Oh nein! Das tut uns leid. Moderne Technik kann so ein Spa\u00dfverderber sein.",
             "noaccess_text": "Dieses Video steht aus Jugendschutzgr\u00fcnden nur von 20 Uhr abends bis 6 Uhr morgens zur Verf\u00fcgung",
@@ -11624,7 +11623,7 @@
             "friday": "Freitag",
             "filter_control_games": "Spiele",
             "published_by": "Angebot zur Verf\u00fcgung gestellt von The Walt Disney Company Limited, Registernummer 530051, Registriert in: 3 Queen Caroline Street, Hammersmith, London W6 9PE.",
-            "what_do_you_think": "Was denkst du?",
+            "discover_game_type_name": "ABSPIELEN",
             "error_dialog_unknown_error": "Das ist komisch! Wir versuchen das Problem zu l\u00f6sen. Probiere es bitte sp\u00e4ter nochmal.",
             "permission_title": "Berechtigungsfehler",
             "chose_country_confirm_text_ftu": "Bist du sicher, dass du dein Land zu {country} wechseln m\u00f6chtest?",
@@ -11633,12 +11632,13 @@
             "last_chance": "Letzte Chance",
             "pick_favorites_start_right_now_button_text": "JETZT STARTEN",
             "press_me": "DR\u00dcCKE MICH",
-            "subs_audio_picker_title": "Sprachoptionen",
+            "ftu_home": "ALLE NEUEN VIDEOS & EMPFOHLENEN EPISODEN FINDEST DU HIER AUF DER STARTSEITE",
+            "discover_social_type_name": "FUN",
             "fun_stuff": "ALLES M\u00d6GLICHE",
             "advertisement_title": "WERBUNG",
             "video_error_locale": "Oh nein! Das tut uns leid. Das Video ist in deiner Region nicht verf\u00fcgbar.",
             "subs_audio_audio_name": "Audio",
-            "discover_game_type_name": "ABSPIELEN",
+            "what_do_you_think": "Was denkst du?",
             "de_country_name": "Deutschland",
             "tuesday": "Dienstag",
             "connection_changed_none": "Du bist nicht mit dem Internet verbunden.",
@@ -11646,11 +11646,12 @@
             "settings_change_country_label_text": "W\u00e4hle dein Land",
             "terms_of_service": "Nutzungsbedingungen",
             "subs_audio_subtitle_name": "Untertitel",
-            "chose_country_title": "L\u00e4nderauswahl",
+            "tutorial_shows_message": "HIER FINDEST DU ALLE SERIEN. DEINE LIEBLINGSSERIEN WERDEN OBEN ANGEZEIGT! DR\u00dcCKE LANGE, UM DIESE ZU BEARBEITEN.",
             "tomorrow": "Morgen",
             "browse_on_mobile_change_later": "Du kannst deine Einstellungen unter dem Men\u00fcpunkt Einstellungen \u00e4ndern.",
             "chose_country_confirm_text": "Bist du sicher, dass du dein Land zu {country} wechseln m\u00f6chtest? Alle deine Favoriten und dein Verlauf werden zur\u00fcckgesetzt.",
             "pick_favorites_too_many_go_to_shows": "DU HAST BEREITS 3 FAVORITEN! GEHE BITTE ZU DEN SERIEN UM DIESE ZU BEARBEITEN.",
+            "discover_default_show_name": "Disney",
             "next": "Danach",
             "nielsen_legal_text_title": "NIELSEN MESSUNG OPT-OUT",
             "started_minutes_ago": "Gerade gestartet",
@@ -11660,598 +11661,120 @@
             "alert_no": "NEIN",
             "ftu_epg": "SCHAU DIR DEN DISNEY CHANNEL LIVE AN UND FINDE HERAUS, WAS ALS N\u00c4CHSTES UND IN DEN KOMMENDEN 7 TAGEN L\u00c4UFT",
             "discover_poll_type_name": "STIMME AB",
-            "push_notification_onload_settings": "Einstellungen",
             "settings_change_country_button_text": "Wechseln",
             "advertisement_message": "Diese App beinhaltet Werbung",
             "epg_no_data_text": "Das TV-Programm kann leider nicht angezeigt werden. Versuche es nochmal.",
             "alert_yes": "JA",
             "vote_error_send": "Ein Fehler ist aufgetreten. Versuche es sp\u00e4ter nochmal.",
-            "nielsen_legal_optout": "Sie k\u00f6nnen die Verwendung Ihrer Daten unterbinden, indem Sie diesem Link folgen.",
+            "vote_error_fetch": "Ein Fehler ist aufgetreten. Versuche es sp\u00e4ter nochmal.",
             "swipe_card": "SWIPE HOCH F\u00dcR MEHR NEUE SACHEN",
             "title_home": "Home",
-            "tutorial_welcome_message": "HI! WILLKOMMEN IN DER NEUEN DISNEY CHANNEL APP! LASS UNS MIT DEM SPASS BEGINNEN",
             "favorites_empty": "Du hast keine Favoriten?! Leg los und markiere deine Favoriten mit Herzen!",
-            "tutorial_epg_message": "SCHAU DIR LIVE DEN DISNEY CHANNEL AN UND SEHE, WAS ALS N\u00c4CHSTES L\u00c4UFT UND IN DEN N\u00c4CHSTEN 7 TAGEN KOMMT",
             "push_notification_onload_ok": "OK",
             "filter_control_funitems": "Bilder",
             "connection_changed_mobile": "Mobil verbunden",
-            "discover_social_type_name": "FUN",
+            "filter_control_polls": "Votings",
+            "tutorial_welcome_message": "HI! WILLKOMMEN IN DER NEUEN DISNEY CHANNEL APP! LASS UNS MIT DEM SPASS BEGINNEN",
             "subs_audio_subtitle_off": "Untertitel aus",
             "video_just_watched_this": "Das hast du gerade angesehen.",
             "error_network_message": "Das ist komisch! Wir versuchen das Problem zu l\u00f6sen. Probiere es bitte sp\u00e4ter nochmal.",
             "game_discover_more": "Zeig mir mehr!",
-            "filter_control_polls": "Votings",
+            "ftu_skip": "\u00dcBERSPRINGEN",
             "general_error": "Ein\u00a0Fehler ist aufgetreten. Aktualisiere die App oder starte sie neu.",
             "customer_support": "Kontakt",
             "review_request_cto": "Gef\u00e4llt Dir die Disney Channel App? Teile Deine Meinung mit uns!",
             "now_you_try": "Jetzt du!",
             "sunday": "Sonntag",
             "pick_favorites_skip_button_text": "\u00dcBERSPRINGEN",
-            "ftu_skip": "\u00dcBERSPRINGEN",
+            "push_notification_onload_settings": "Einstellungen",
             "confirm_app_leave": "M\u00f6chtest Du die Disney Channel App wirklich verlassen?",
             "nielsen_legal_text": "Mit einem Klick auf \u201cOK\u201d weiter unten wird die App auf diesem Ger\u00e4t nicht mehr Teil der Nielsen Messung sein (Opt-Out), au\u00dfer Sie sind Mitglied des Mobile Panels. Nielsen wird keinerlei Daten in Bezug auf Ihr Verhalten in der App eines Kunden sammeln. Nielsen erfasst jedoch, dass die M\u00f6glichkeit des \u201cOpt-Out\u201c in Anspruch genommen wurde, sodass Gesamtsummen der \u201cOpt-Out\u201c-Zahlen berechnet und aufgezeichnet werden k\u00f6nnen. Falls Sie ein Nielsen Mobile Panelist sind kontaktieren Sie bitte den Kundensupport f\u00fcr das Nielsen Mobile Panel. Bitte beachten Sie, dass Sie nicht Mitglied des Nielsen Mobile Panels werden, wenn Sie diese App benutzen.",
             "monday": "Montag",
             "pick_favorites_edit_favorites": "BEARBEITE DEINE FAVORITEN",
             "hold_me": "HALTE MICH",
             "about_nielsen": "Nielsen Messverfahren",
-            "ftu_home": "ALLE NEUEN VIDEOS & EMPFOHLENEN EPISODEN FINDEST DU HIER AUF DER STARTSEITE",
+            "subs_audio_picker_title": "Sprachoptionen",
             "favorites": "Deine Favoriten",
             "deep_link_content_missing": "",
             "browse_on_mobile_description": "Erlaube das Surfen \u00fcber deine Mobilfunkverbindung",
             "review_request_title": "Bewerte unsere App!",
             "expires_soon": "LETZTE CHANCE",
             "error_network_title": "Es ist ein Netzwerkfehler aufgetreten.",
-            "vote_error_fetch": "Ein Fehler ist aufgetreten. Versuche es sp\u00e4ter nochmal.",
+            "nielsen_legal_optout": "Sie k\u00f6nnen die Verwendung Ihrer Daten unterbinden, indem Sie diesem Link folgen.",
             "subs_audio_audio_default": "Standard",
             "later": "Sp\u00e4ter",
             "video_location_restriction_error": "Oh nein! Das Video ist gerade nicht verf\u00fcgbar. Zum Gl\u00fcck kannst du viele andere coole Sachen stattdessen entdecken!",
             "pick_favorites_start_button_text": "STARTEN",
             "tutorial_home_message": "ALLE NEUEN VIDEOS & EMPFOHLENEN EPISODEN FINDEST DU HIER AUF DER STARTSEITE",
             "find_out_more": "Finde mehr heraus",
-            "discover_default_show_name": "Disney",
+            "tutorial_epg_message": "SCHAU DIR LIVE DEN DISNEY CHANNEL AN UND SEHE, WAS ALS N\u00c4CHSTES L\u00c4UFT UND IN DEN N\u00c4CHSTEN 7 TAGEN KOMMT",
             "no_title": "Schau dir das an!",
             "connection_changed": "Achtung!",
             "pick_favorites_gotit_thanks": "VERSTANDEN. DANKE!",
             "settings_title": "Einstellungen",
             "latest": "Neue Videos"
         },
-        "help": {
-            "published_by_url": "http://disney.com",
-            "customer_support_email": "hilfe@disney.de",
-            "cookie_policy_url": "https://disneyprivacycenter.com/cookies-policy-translations/german/",
-            "imprint": "http://disney.de/impressum",
-            "privacy_policy_url": "https://disneyprivacycenter.com/privacy-policy-translations/german/",
-            "tos_url": "https://disneytermsofuse.com/german/",
-            "customer_support_url": "https://help.disney.com/de/Apps/Disney-Channel-App"
-        },
         "killswitch": {
             "message": "We are currently experiencing issues. Please check back later",
             "enabled": false
         },
-        "epg_config": {
-            "url": "http://a.dilcdn.com/appdata/dc-app.disney.de/_schedule/full/[DATESTAMP]/[OFFSET]/epg",
-            "livestream": "1_woce098v",
-            "days_ahead": 7
+        "kaltura": {
+            "permission_referrer": "http://disney.de",
+            "endpoint": "https://cdnapisec.kaltura.com",
+            "partner_id": "1068292",
+            "uiconf": "35883721"
+        },
+        "nielsen": {
+            "environment": "staging"
         },
         "version": {
             "minimum.android": "2.1.46",
             "latest.android": "2.1.46",
-            "latest.ios": "2.1.51",
-            "minimum.ios": "2.1.51"
+            "minimum.ios": "2.1.51",
+            "latest.ios": "2.1.51"
         },
         "games": {
             "frequency": 5
         },
         "adverts": {
+            "native_enabled": true,
             "contenttype_longvideo": "Full Episode - Full Episode - TV",
+            "hub": "disney.de",
+            "contenttype_shortvideo": "videos",
             "site": "disneychannel",
             "player": "dc-app",
             "referer_url": "[REFERRER_URL]",
+            "preroll_enabled": true,
+            "google_image_template_id": "10114248",
             "cmsid": "13728",
             "disneycms": "twc-fta2",
+            "sdk": "1",
             "tag_url": "https://analytics.disneyinternational.com/ads/tagsv2/video",
+            "country": "de",
             "section": "mobile-app",
             "description_url": "http://disney.de",
             "google_unitid": "/165891808/disney.de/disneychannel/mobile-app/native",
+            "native_frequency": "90",
             "google_unitid_array": {
                 "full_screen": "/165891808/disney.de/disneychannel/mobile-app/native-fullscreen",
                 "native": "/165891808/disney.de/disneychannel/mobile-app/native-content"
             },
-            "preroll_frequency": "300",
-            "native_enabled": true,
-            "hub": "disney.de",
-            "contenttype_shortvideo": "videos",
-            "preroll_enabled": true,
-            "google_image_template_id": "10114248",
-            "sdk": "1",
-            "country": "de",
-            "native_frequency": "90",
             "google_image_video_template_id": "10114368",
             "inline_frequency": "5",
             "output": "vast",
+            "preroll_frequency": "300",
             "slug1": "video"
         },
         "epg": "http://a.dilcdn.com/appdata/dc-app.disney.de/_schedule/full/[DATESTAMP]/[OFFSET]/epg",
-        "nielsen": {
-            "environment": "staging"
+        "help": {
+            "imprint": "http://disney.de/impressum",
+            "privacy_policy_url": "https://disneyprivacycenter.com/privacy-policy-translations/german/",
+            "tos_url": "https://disneytermsofuse.com/german/",
+            "published_by_url": "http://disney.com",
+            "customer_support_email": "hilfe@disney.de",
+            "cookie_policy_url": "https://disneyprivacycenter.com/cookies-policy-translations/german/",
+            "customer_support_url": "https://help.disney.com/de/Apps/Disney-Channel-App"
         }
     },
-    "social-suppressed": [
-        {
-            "object": {
-                "displayName": "Disney Channel Sommerspiele - Am Set",
-                "image": {
-                    "url": "https://lumiere-a.akamaihd.net/v1/images/image_67c593a5.jpeg?height=354&region=0%2C0%2C1920%2C1080&width=630",
-                    "width": 630,
-                    "height": 354
-                },
-                "content": "Disney Channel Sommerspiele - Am Set",
-                "kaltura": {
-                    "type": "Promotion",
-                    "id": "1_y84wcynz",
-                    "type_group": "shortform"
-                },
-                "duration": 122000,
-                "objectType": "video"
-            },
-            "tag": [
-                {
-                    "name": "51ed74307455d6e8aac3d09e",
-                    "subtype": "Show",
-                    "show_hierarchy": 1,
-                    "type": "MHID",
-                    "id": "51ed74307455d6e8aac3d09e",
-                    "property_id": "51ed736953c069ff8124df07"
-                }
-            ],
-            "coreid": "57143395220824c4f82364db",
-            "verb": "post",
-            "published": "2018-07-26T10:14:14",
-            "guid": "MH-video-defta-57143395220824c4f82364db"
-        },
-        {
-            "object": {
-                "displayName": "Versteckte Objekte",
-                "url": "http://img.lum.dolimg.com/v1/files/b1b18de0-d985-11e6-8c8e-06095000006a/index.html",
-                "image": {
-                    "url": "https://lumiere-a.akamaihd.net/v1/images/the_lodge_dress_up_8b942c24.png"
-                },
-                "height": "500",
-                "content": "Visit the North Star Lodge and help find all the objects in this brand new Lodge game. Part of the Disney Channel mini game collection.",
-                "width": "900",
-                "objectType": "game"
-            },
-            "tag": [
-                {
-                    "displayName": "The Lodge",
-                    "name": "52e2f8e723c0cba276f62f34",
-                    "subtype": "Show",
-                    "show_hierarchy": 1,
-                    "type": "MHID",
-                    "id": "52e2f8e723c0cba276f62f34",
-                    "property_id": "52e2f88cc8dedba276f62f34"
-                }
-            ],
-            "coreid": "53b5ec5842de6afc083b7c66",
-            "verb": "post",
-            "published": "2018-04-17T07:14:26",
-            "guid": "MH-game-defta-53b5ec5842de6afc083b7c66"
-        },
-        {
-            "object": {
-                "displayName": "Perfekte Noten",
-                "url": "http://img.lum.dolimg.com/v1/files/d08da3c0-d985-11e6-a1f8-06cdc8000068/index.html",
-                "image": {
-                    "url": "https://lumiere-a.akamaihd.net/v1/images/note_perfectv2_fb667c3c.jpeg"
-                },
-                "height": "500",
-                "content": "Play along to the tune in this brand new Lodge game. Part of the Disney Channel Mini Game Collection.",
-                "width": "900",
-                "objectType": "game"
-            },
-            "tag": [
-                {
-                    "displayName": "The Lodge",
-                    "name": "52e2f8e723c0cba276f62f34",
-                    "subtype": "Show",
-                    "show_hierarchy": 1,
-                    "type": "MHID",
-                    "id": "52e2f8e723c0cba276f62f34",
-                    "property_id": "52e2f88cc8dedba276f62f34"
-                }
-            ],
-            "coreid": "53db9724b03f946fa697e70a",
-            "verb": "post",
-            "published": "2018-04-17T07:14:26",
-            "guid": "MH-game-defta-53db9724b03f946fa697e70a"
-        },
-        {
-            "object": {
-                "displayName": "Micky Maus - Mickys Filmabend",
-                "image": {
-                    "url": "https://lumiere-a.akamaihd.net/v1/images/image_572fa8c4.jpeg?height=354&region=0%2C0%2C1920%2C1080&width=630",
-                    "width": 630,
-                    "height": 354
-                },
-                "content": "Micky Maus - Mickys Filmabend",
-                "kaltura": {
-                    "type": "Promotion",
-                    "id": "1_dcntnd84",
-                    "type_group": "shortform"
-                },
-                "duration": 1382000,
-                "objectType": "video"
-            },
-            "tag": [
-                {
-                    "name": "4dbd6f527d2aa5b5acf0f446",
-                    "subtype": "Show",
-                    "show_hierarchy": 1,
-                    "type": "MHID",
-                    "id": "4dbd6f527d2aa5b5acf0f446",
-                    "property_id": "4bdfd35102a87496bbe03d00"
-                }
-            ],
-            "coreid": "567d5bbeb47fa0b2217cc6c4",
-            "verb": "post",
-            "published": "2018-04-02T22:01:05",
-            "guid": "MH-video-defta-567d5bbeb47fa0b2217cc6c4"
-        },
-        {
-            "object": {
-                "displayName": "Micky Maus - Die gestohlenen W\u00fcnsche",
-                "image": {
-                    "url": "https://lumiere-a.akamaihd.net/v1/images/image_4f3b3248.jpeg?height=354&region=0%2C0%2C1920%2C1080&width=630",
-                    "width": 630,
-                    "height": 354
-                },
-                "content": "Micky Maus - Die gestohlenen W\u00fcnsche",
-                "kaltura": {
-                    "type": "Short",
-                    "id": "1_gzdo5fhk",
-                    "type_group": "shortform"
-                },
-                "duration": 1382000,
-                "objectType": "video"
-            },
-            "tag": [
-                {
-                    "name": "4dbd6f527d2aa5b5acf0f446",
-                    "subtype": "Show",
-                    "show_hierarchy": 1,
-                    "type": "MHID",
-                    "id": "4dbd6f527d2aa5b5acf0f446",
-                    "property_id": "4bdfd35102a87496bbe03d00"
-                }
-            ],
-            "coreid": "5667012aee51b709299b67a0",
-            "verb": "post",
-            "published": "2018-03-06T12:45:23",
-            "guid": "MH-video-defta-5667012aee51b709299b67a0"
-        },
-        {
-            "object": {
-                "displayName": "Schreck-Attack - Die Schlange",
-                "image": {
-                    "url": "https://lumiere-a.akamaihd.net/v1/images/image_4f9153e0.jpeg?height=354&region=0%2C0%2C1920%2C1080&width=630",
-                    "width": 630,
-                    "height": 354
-                },
-                "content": "Lehrerin Claudia hat keine Ahnung, dass ihr heute kein normaler Tag im Klassenzimmer bevorsteht\u2026",
-                "kaltura": {
-                    "classification": "No Age Consent",
-                    "type": "Short",
-                    "id": "1_k5qw5oba",
-                    "type_group": "shortform",
-                    "classification_array": {
-                        "rating": "No Age Consent",
-                        "board": "fsk"
-                    }
-                },
-                "duration": 137000,
-                "objectType": "video"
-            },
-            "tag": [
-                {
-                    "subtype": "Show",
-                    "type": "MHID",
-                    "id": "genericXD",
-                    "name": "genericXD",
-                    "show_hierarchy": 1
-                }
-            ],
-            "coreid": "54fde8095fbcbd951e4b5159",
-            "verb": "post",
-            "published": "2017-11-14T00:09:16",
-            "guid": "MH-video-defta-54fde8095fbcbd951e4b5159"
-        },
-        {
-            "last_updated": "2017-08-01T12:03:04",
-            "object": {
-                "content": "<p>;</p>\n",
-                "image": {
-                    "url": "https://tdc-app-feed.akamaized.net/media/dc-app-prod/app/uploads/2017/08/01120301/313Perryder13_____Herzemoji-17f8692d-98c0-4fff-82a4-e8a8ff6e9979-1614676956.jpg",
-                    "width": 1200,
-                    "height": 1200
-                },
-                "displayName": "\u2764\ufe0f",
-                "objectType": "photo"
-            },
-            "tag": [
-                {
-                    "subtype": "Show",
-                    "dimg_property_code": "phf",
-                    "type": "MHID",
-                    "name": "4b90600fae09350f422a8ba2"
-                }
-            ],
-            "verb": "post",
-            "published": "2017-08-01T12:03:04",
-            "guid": "WP-defta-https://dc-app-prod.disn.io/?p=13646"
-        },
-        {
-            "last_updated": "2017-08-01T10:00:07",
-            "object": {
-                "content": "<p>;</p>\n",
-                "image": {
-                    "url": "https://tdc-app-feed.akamaized.net/media/dc-app-prod/app/uploads/2017/08/01100006/313Foto_freunde_____Jedes_Mal__-52ca39da-006c-4ea2-b40a-505f1f98ea2e-36519683.png",
-                    "width": 840,
-                    "height": 840
-                },
-                "displayName": "Jedes Mal\u2026",
-                "objectType": "photo"
-            },
-            "tag": [
-                {
-                    "subtype": "Show",
-                    "dimg_property_code": "phf",
-                    "type": "MHID",
-                    "name": "4b90600fae09350f422a8ba2"
-                }
-            ],
-            "verb": "post",
-            "published": "2017-08-01T10:00:07",
-            "guid": "WP-defta-https://dc-app-prod.disn.io/?p=13605"
-        },
-        {
-            "last_updated": "2017-08-01T08:00:06",
-            "object": {
-                "content": "<p>;</p>\n",
-                "image": {
-                    "url": "https://tdc-app-feed.akamaized.net/media/dc-app-prod/app/uploads/2017/08/01080004/313ferb_reden____Wusstest_du_scho-4ede506a-2371-4c12-ac5f-a2990ea6f3d4-791121210.png",
-                    "width": 840,
-                    "height": 840
-                },
-                "displayName": "Wusstest du schon, dass\u2026",
-                "objectType": "photo"
-            },
-            "tag": [
-                {
-                    "subtype": "Show",
-                    "dimg_property_code": "phf",
-                    "type": "MHID",
-                    "name": "4b90600fae09350f422a8ba2"
-                }
-            ],
-            "verb": "post",
-            "published": "2017-08-01T08:00:06",
-            "guid": "WP-defta-https://dc-app-prod.disn.io/?p=13550"
-        },
-        {
-            "last_updated": "2017-06-08T09:42:03",
-            "object": {
-                "content": "<div class=\"formula-bar-separator\">&nbsp;</div>\n<div id=\"t-formula-bar-input-container\">\n<div dir=\"ltr\">\n<div id=\"t-formula-bar-input\" spellcheck=\"false\">\n<div class=\"cell-input disabled-input\" dir=\"ltr\" tabindex=\"0\" contenteditable=\"false\">Aufpassen, wo man landet \ud83d\ude00</div>\n</div>\n</div>\n</div>\n",
-                "image": {
-                    "url": "https://tdc-app-feed.akamaized.net/media/dc-app-prod/app/uploads/2017/06/08094201/313Ba__r_P_F_1-20f2e41b-0f55-44f0-8b07-6661d14f7228-651495429.jpg",
-                    "width": 782,
-                    "height": 782
-                },
-                "displayName": "Aufpassen, wo man landet :D",
-                "objectType": "photo"
-            },
-            "tag": [
-                {
-                    "subtype": "Show",
-                    "dimg_property_code": "phf",
-                    "type": "MHID",
-                    "name": "4b90600fae09350f422a8ba2"
-                }
-            ],
-            "verb": "post",
-            "published": "2017-06-08T09:42:03",
-            "guid": "WP-defta-https://dc-app-prod.disn.io/?p=10447"
-        },
-        {
-            "last_updated": "2017-06-08T09:41:33",
-            "object": {
-                "content": "<p>Nat&uuml;rlich eine neue tolle Erfindung!</p>\n",
-                "image": {
-                    "url": "https://tdc-app-feed.akamaized.net/media/dc-app-prod/app/uploads/2017/06/08094132/313Cartoon_PF-ff533e09-f27b-49f1-66918061-cbb8-4c22-9a5a-208162a4a614-283584808.png",
-                    "width": 840,
-                    "height": 840
-                },
-                "displayName": "Nat\u00fcrlich eine neue tolle Erfindung!",
-                "objectType": "photo"
-            },
-            "tag": [
-                {
-                    "subtype": "Show",
-                    "dimg_property_code": "phf",
-                    "type": "MHID",
-                    "name": "4b90600fae09350f422a8ba2"
-                }
-            ],
-            "verb": "post",
-            "published": "2017-06-08T09:41:33",
-            "guid": "WP-defta-https://dc-app-prod.disn.io/?p=10444"
-        },
-        {
-            "last_updated": "2017-05-24T13:02:36",
-            "object": {
-                "content": "<p>Motto!</p>\n",
-                "image": {
-                    "url": "https://tdc-app-feed.akamaized.net/media/dc-app-prod/app/uploads/2017/05/24130235/3135934c46c-b903-4bd0-a492-4c8a8a-9a48f19a-54d7-4afc-ace7-44106a22f26b-1373612769.png",
-                    "width": 720,
-                    "height": 720
-                },
-                "displayName": "Motto!",
-                "objectType": "photo"
-            },
-            "tag": [
-                {
-                    "subtype": "Show",
-                    "dimg_property_code": "phf",
-                    "type": "MHID",
-                    "name": "4b90600fae09350f422a8ba2"
-                }
-            ],
-            "verb": "post",
-            "published": "2017-05-24T13:02:36",
-            "guid": "WP-defta-https://dc-app-prod.disn.io/?p=9780"
-        },
-        {
-            "last_updated": "2017-05-24T13:01:31",
-            "object": {
-                "content": "<p>K&ouml;nnte langsam mal wieder warm werden!</p>\n",
-                "image": {
-                    "url": "https://tdc-app-feed.akamaized.net/media/dc-app-prod/app/uploads/2017/05/24130131/313Phineas_untersommerung-6535dafb-d8d5-478a-9db9-2831b568943b-263633301.jpg",
-                    "width": 690,
-                    "height": 690
-                },
-                "displayName": "K\u00f6nnte langsam mal wieder warm werden!",
-                "objectType": "photo"
-            },
-            "tag": [
-                {
-                    "subtype": "Show",
-                    "dimg_property_code": "phf",
-                    "type": "MHID",
-                    "name": "4b90600fae09350f422a8ba2"
-                }
-            ],
-            "verb": "post",
-            "published": "2017-05-24T13:01:31",
-            "guid": "WP-defta-https://dc-app-prod.disn.io/?p=9777"
-        },
-        {
-            "last_updated": "2017-05-24T13:00:37",
-            "object": {
-                "content": "<div class=\"formula-bar-separator\">&nbsp;</div>\n<div id=\"t-formula-bar-input-container\">\n<div dir=\"ltr\">\n<div id=\"t-formula-bar-input\" spellcheck=\"false\">\n<div class=\"cell-input disabled-input\" dir=\"ltr\" tabindex=\"0\" contenteditable=\"false\">Habt einen tollen Montag!</div>\n</div>\n</div>\n</div>\n",
-                "image": {
-                    "url": "https://tdc-app-feed.akamaized.net/media/dc-app-prod/app/uploads/2017/05/24130036/313Montag_schock_PF-67b72f77-0a38-41955a42-342f-4c23-910a-1439c6a12349-2056749667.png",
-                    "width": 840,
-                    "height": 840
-                },
-                "displayName": "Habt einen tollen Montag!",
-                "objectType": "photo"
-            },
-            "tag": [
-                {
-                    "subtype": "Show",
-                    "dimg_property_code": "phf",
-                    "type": "MHID",
-                    "name": "4b90600fae09350f422a8ba2"
-                }
-            ],
-            "verb": "post",
-            "published": "2017-05-24T13:00:37",
-            "guid": "WP-defta-https://dc-app-prod.disn.io/?p=9774"
-        },
-        {
-            "last_updated": "2017-05-24T12:59:02",
-            "object": {
-                "content": "<p>YEAH!</p>\n",
-                "image": {
-                    "url": "https://tdc-app-feed.akamaized.net/media/dc-app-prod/app/uploads/2017/05/24125902/313P_F_weekend-7e107759-cfc7-41ce-b370-ab05f4e4ae91-809120877.png",
-                    "width": 782,
-                    "height": 782
-                },
-                "displayName": "YEAH!",
-                "objectType": "photo"
-            },
-            "tag": [
-                {
-                    "subtype": "Show",
-                    "dimg_property_code": "phf",
-                    "type": "MHID",
-                    "name": "4b90600fae09350f422a8ba2"
-                }
-            ],
-            "verb": "post",
-            "published": "2017-05-24T12:59:02",
-            "guid": "WP-defta-https://dc-app-prod.disn.io/?p=9771"
-        },
-        {
-            "last_updated": "2017-05-24T12:57:45",
-            "object": {
-                "content": "<div class=\"formula-bar-separator\">&nbsp;</div>\n<div id=\"t-formula-bar-input-container\">\n<div dir=\"ltr\">\n<div id=\"t-formula-bar-input\" spellcheck=\"false\">\n<div class=\"cell-input disabled-input\" dir=\"ltr\" tabindex=\"0\" contenteditable=\"false\">Ja ja, Candace&hellip;</div>\n</div>\n</div>\n</div>\n",
-                "image": {
-                    "url": "https://tdc-app-feed.akamaized.net/media/dc-app-prod/app/uploads/2017/05/24125744/313P_F_einzig_normale-0d2acc2b-1e81-4b4a-9032-d8453d94fc83-1504817111.png",
-                    "width": 900,
-                    "height": 900
-                },
-                "displayName": "Ja ja, Candace\u2026",
-                "objectType": "photo"
-            },
-            "tag": [
-                {
-                    "subtype": "Show",
-                    "dimg_property_code": "phf",
-                    "type": "MHID",
-                    "name": "4b90600fae09350f422a8ba2"
-                }
-            ],
-            "verb": "post",
-            "published": "2017-05-24T12:57:45",
-            "guid": "WP-defta-https://dc-app-prod.disn.io/?p=9768"
-        },
-        {
-            "last_updated": "2017-05-24T12:56:47",
-            "object": {
-                "content": "<p>Schaffst du das? \ud83d\ude04</p>\n",
-                "image": {
-                    "url": "https://tdc-app-feed.akamaized.net/media/dc-app-prod/app/uploads/2017/05/24125646/313P_F_Perry_Blinzeln-056c718b-9e-3b480d43-467e-42dc-8824-d6681845e368-828997235.png",
-                    "width": 840,
-                    "height": 840
-                },
-                "displayName": "Schaffst du das? \ud83d\ude04",
-                "objectType": "photo"
-            },
-            "tag": [
-                {
-                    "subtype": "Show",
-                    "dimg_property_code": "phf",
-                    "type": "MHID",
-                    "name": "4b90600fae09350f422a8ba2"
-                }
-            ],
-            "verb": "post",
-            "published": "2017-05-24T12:56:47",
-            "guid": "WP-defta-https://dc-app-prod.disn.io/?p=9765"
-        },
-        {
-            "last_updated": "2017-05-24T12:54:10",
-            "object": {
-                "content": "<p>Nat&uuml;rlich eine neue tolle Erfindung!</p>\n",
-                "image": {
-                    "url": "https://tdc-app-feed.akamaized.net/media/dc-app-prod/app/uploads/2017/05/24125409/313Cartoon_PF-ff533e09-f27b-49f1-efc2325d-3036-453f-850f-45828a981f5f-1057095800.png",
-                    "width": 840,
-                    "height": 840
-                },
-                "displayName": "Nat\u00fcrlich eine neue tolle Erfindung!",
-                "objectType": "photo"
-            },
-            "tag": [
-                {
-                    "subtype": "Show",
-                    "dimg_property_code": "phf",
-                    "type": "MHID",
-                    "name": "4b90600fae09350f422a8ba2"
-                }
-            ],
-            "verb": "post",
-            "published": "2017-05-24T12:54:10",
-            "guid": "WP-defta-https://dc-app-prod.disn.io/?p=9759"
-        }
-    ]
+    "social-suppressed": []
 }
